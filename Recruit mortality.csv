@@ -1,0 +1,1566 @@
+﻿Un_ID,Timepoint,Un_id_tp,Block_plot,Herbivory_trt,Coral_Id,Coral_genus,Enrichment_trt,Recruitment,Alive,Notes1,Rec_timepoint
+A3_1X1_P01,T9,A3_1X1_P1_T9,A3,1X1,P01,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P01,T3,A3_1X1_P1_T3,A3,1X1,P01,Pocillopora,Enriched,1,1,,T3
+A3_1X1_P01,T6,A3_1X1_P1_T6,A3,1X1,P01,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P10,T9,A3_1X1_P10_T9,A3,1X1,P10,Pocillopora,Enriched,0,1,,T6
+A3_1X1_P10,T6,A3_1X1_P10_T6,A3,1X1,P10,Pocillopora,Enriched,1,1,,T6
+A3_1X1_P11,T6,A3_1X1_P11_T6,A3,1X1,P11,Pocillopora,Enriched,1,1,,T6
+A3_1X1_P11,T9,A3_1X1_P11_T9,A3,1X1,P11,Pocillopora,Enriched,0,0,,T6
+A3_1X1_P02,T9,A3_1X1_P2_T9,A3,1X1,P02,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P02,T6,A3_1X1_P2_T6,A3,1X1,P02,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P02,T3,A3_1X1_P2_T3,A3,1X1,P02,Pocillopora,Enriched,1,1,,T3
+A3_1X1_P03,T3,A3_1X1_P3_T3,A3,1X1,P03,Pocillopora,Enriched,1,1,,T3
+A3_1X1_P03,T9,A3_1X1_P3_T9,A3,1X1,P03,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P03,T6,A3_1X1_P3_T6,A3,1X1,P03,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P04,T3,A3_1X1_P4_T3,A3,1X1,P04,Pocillopora,Enriched,1,1,,T3
+A3_1X1_P04,T9,A3_1X1_P4_T9,A3,1X1,P04,Pocillopora,Enriched,0,0,,T3
+A3_1X1_P04,T6,A3_1X1_P4_T6,A3,1X1,P04,Pocillopora,Enriched,0,0,,T3
+A3_1X1_P05,T6,A3_1X1_P5_T6,A3,1X1,P05,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P05,T9,A3_1X1_P5_T9,A3,1X1,P05,Pocillopora,Enriched,0,1,,T3
+A3_1X1_P05,T3,A3_1X1_P5_T3,A3,1X1,P05,Pocillopora,Enriched,1,1,,T3
+A3_1X1_P06,T9,A3_1X1_P6_T9,A3,1X1,P06,Pocillopora,Enriched,0,0,,T6
+A3_1X1_P06,T6,A3_1X1_P6_T6,A3,1X1,P06,Pocillopora,Enriched,1,1,,T6
+A3_1X1_P7A,T9,A3_1X1_P7A_T9,A3,1X1,P7A,Pocillopora,Enriched,0,1,,T6
+A3_1X1_P7A,T6,A3_1X1_P7A_T6,A3,1X1,P7A,Pocillopora,Enriched,1,1,,T6
+A3_1X1_P7B,T6,A3_1X1_P7B_T6,A3,1X1,P7B,Pocillopora,Enriched,1,1,likely recruited before T6 but this is the first time we see it. T3 photomosaic isn't well resolved at T3. need to update T6 photomosaic,T6
+A3_1X1_P7B,T9,A3_1X1_P7B_T9,A3,1X1,P7B,Pocillopora,Enriched,0,1,looks too big to be a recruit but didn't appear to be here at previous timepoint,T6
+A3_1X1_P08,T6,A3_1X1_P8_T6,A3,1X1,P08,Pocillopora,Enriched,1,1,,T6
+A3_1X1_P08,T9,A3_1X1_P8_T9,A3,1X1,P08,Pocillopora,Enriched,0,1,,T6
+A3_1X1_P09,T9,A3_1X1_P9_T9,A3,1X1,P09,Pocillopora,Enriched,0,1,,T6
+A3_1X1_P09,T6,A3_1X1_P9_T6,A3,1X1,P09,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P01,T9,A3_2X2_P1_T9,A3,2X2,P01,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P01,T6,A3_2X2_P1_T6,A3,2X2,P01,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P01,T3,A3_2X2_P1_T3,A3,2X2,P01,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P10,T6,A3_2X2_P10_T6,A3,2X2,P10,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P10,T9,A3_2X2_P10_T9,A3,2X2,P10,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P11,T9,A3_2X2_P11_T9,A3,2X2,P11,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P11,T6,A3_2X2_P11_T6,A3,2X2,P11,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P12,T9,A3_2X2_P12_T9,A3,2X2,P12,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P12,T6,A3_2X2_P12_T6,A3,2X2,P12,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P13,T6,A3_2X2_P13_T6,A3,2X2,P13,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P13,T9,A3_2X2_P13_T9,A3,2X2,P13,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P14,T9,A3_2X2_P14_T9,A3,2X2,P14,Pocillopora,Enriched,1,1,,T9
+A3_2X2_P02,T6,A3_2X2_P2_T6,A3,2X2,P02,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P02,T3,A3_2X2_P2_T3,A3,2X2,P02,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P02,T9,A3_2X2_P2_T9,A3,2X2,P02,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P03,T9,A3_2X2_P3_T9,A3,2X2,P03,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P03,T6,A3_2X2_P3_T6,A3,2X2,P03,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P03,T3,A3_2X2_P3_T3,A3,2X2,P03,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P04,T3,A3_2X2_P4_T3,A3,2X2,P04,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P04,T6,A3_2X2_P4_T6,A3,2X2,P04,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P04,T9,A3_2X2_P4_T9,A3,2X2,P04,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P05,T6,A3_2X2_P5_T6,A3,2X2,P05,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P05,T3,A3_2X2_P5_T3,A3,2X2,P05,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P05,T9,A3_2X2_P5_T9,A3,2X2,P05,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P06,T9,A3_2X2_P6_T9,A3,2X2,P06,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P06,T3,A3_2X2_P6_T3,A3,2X2,P06,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P06,T6,A3_2X2_P6_T6,A3,2X2,P06,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P07,T6,A3_2X2_P7_T6,A3,2X2,P07,Pocillopora,Enriched,0,1,,T3
+A3_2X2_P07,T9,A3_2X2_P7_T9,A3,2X2,P07,Pocillopora,Enriched,0,1,also caulerpa,T3
+A3_2X2_P07,T3,A3_2X2_P7_T3,A3,2X2,P07,Pocillopora,Enriched,1,1,,T3
+A3_2X2_P08,T6,A3_2X2_P8_T6,A3,2X2,P08,Pocillopora,Enriched,1,1,,T6
+A3_2X2_P08,T9,A3_2X2_P8_T9,A3,2X2,P08,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P09,T9,A3_2X2_P9_T9,A3,2X2,P09,Pocillopora,Enriched,0,1,,T6
+A3_2X2_P09,T6,A3_2X2_P9_T6,A3,2X2,P09,Pocillopora,Enriched,1,1,,T6
+A3_3X3_P01,T9,A3_3X3_P1_T9,A3,3X3,P01,Pocillopora,Enriched,0,0,,T3
+A3_3X3_P01,T6,A3_3X3_P1_T6,A3,3X3,P01,Pocillopora,Enriched,0,0,,T3
+A3_3X3_P01,T3,A3_3X3_P1_T3,A3,3X3,P01,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P10,T6,A3_3X3_P10_T6,A3,3X3,P10,Pocillopora,Enriched,1,1,was probably already there at T3 but underneath diffuser,T6
+A3_3X3_P10,T9,A3_3X3_P10_T9,A3,3X3,P10,Pocillopora,Enriched,0,1,was probably already there at T3 but underneath diffuser,T6
+A3_3X3_P11,T3,A3_3X3_P11_T3,A3,3X3,P11,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P11,T6,A3_3X3_P11_T6,A3,3X3,P11,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P11,T9,A3_3X3_P11_T9,A3,3X3,P11,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P12,T9,A3_3X3_P12_T9,A3,3X3,P12,Pocillopora,Enriched,0,1,,T6
+A3_3X3_P12,T6,A3_3X3_P12_T6,A3,3X3,P12,Pocillopora,Enriched,1,1,,T6
+A3_3X3_P13,T9,A3_3X3_P13_T9,A3,3X3,P13,Pocillopora,Enriched,1,1,,T9
+A3_3X3_P14,T9,A3_3X3_P14_T9,A3,3X3,P14,Pocillopora,Enriched,0,1,,T6
+A3_3X3_P14,T6,A3_3X3_P14_T6,A3,3X3,P14,Pocillopora,Enriched,1,1,,T6
+A3_3X3_P15,T9,A3_3X3_P15_T9,A3,3X3,P15,Pocillopora,Enriched,1,1,,T9
+A3_3X3_P16,T9,A3_3X3_P16_T9,A3,3X3,P16,Pocillopora,Enriched,1,1,,T9
+A3_3X3_P02,T6,A3_3X3_P2_T6,A3,3X3,P02,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P02,T3,A3_3X3_P2_T3,A3,3X3,P02,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P02,T9,A3_3X3_P2_T9,A3,3X3,P02,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P03,T6,A3_3X3_P3_T6,A3,3X3,P03,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P03,T3,A3_3X3_P3_T3,A3,3X3,P03,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P03,T9,A3_3X3_P3_T9,A3,3X3,P03,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P04,T6,A3_3X3_P4_T6,A3,3X3,P04,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P04,T3,A3_3X3_P4_T3,A3,3X3,P04,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P04,T9,A3_3X3_P4_T9,A3,3X3,P04,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P5A,T3,A3_3X3_P5A_T3,A3,3X3,P5A,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P5A,T9,A3_3X3_P5A_T9,A3,3X3,P5A,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P5A,T6,A3_3X3_P5A_T6,A3,3X3,P5A,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P5B,T3,A3_3X3_P5B_T3,A3,3X3,P5B,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P5B,T6,A3_3X3_P5B_T6,A3,3X3,P5B,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P5B,T9,A3_3X3_P5B_T9,A3,3X3,P5B,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P06,T6,A3_3X3_P6_T6,A3,3X3,P06,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P06,T3,A3_3X3_P6_T3,A3,3X3,P06,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P06,T9,A3_3X3_P6_T9,A3,3X3,P06,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P07,T3,A3_3X3_P7_T3,A3,3X3,P07,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P07,T6,A3_3X3_P7_T6,A3,3X3,P07,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P07,T9,A3_3X3_P7_T9,A3,3X3,P07,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P08,T3,A3_3X3_P8_T3,A3,3X3,P08,Pocillopora,Enriched,1,1,,T3
+A3_3X3_P08,T9,A3_3X3_P8_T9,A3,3X3,P08,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P08,T6,A3_3X3_P8_T6,A3,3X3,P08,Pocillopora,Enriched,0,1,,T3
+A3_3X3_P09,T9,A3_3X3_P9_T9,A3,3X3,P09,Pocillopora,Enriched,0,1,,T6
+A3_3X3_P09,T6,A3_3X3_P9_T6,A3,3X3,P09,Pocillopora,Enriched,1,1,,T6
+A3_open_P01,T6,A3_open_P1_T6,A3,open,P01,Pocillopora,Enriched,0,1,,T3
+A3_open_P01,T9,A3_open_P1_T9,A3,open,P01,Pocillopora,Enriched,0,1,,T3
+A3_open_P01,T3,A3_open_P1_T3,A3,open,P01,Pocillopora,Enriched,1,1,,T3
+A3_open_P10,T9,A3_open_P10_T9,A3,open,P10,Pocillopora,Enriched,0,1,out of the photomosaic,T6
+A3_open_P10,T6,A3_open_P10_T6,A3,open,P10,Pocillopora,Enriched,1,1,,T6
+A3_open_P11,T6,A3_open_P11_T6,A3,open,P11,Pocillopora,Enriched,1,1,,T6
+A3_open_P11,T9,A3_open_P11_T9,A3,open,P11,Pocillopora,Enriched,0,1,,T6
+A3_open_P13,T6,A3_open_P13_T6,A3,open,P13,Pocillopora,Enriched,1,1,,T6
+A3_open_P13,T9,A3_open_P13_T9,A3,open,P13,Pocillopora,Enriched,0,1,,T6
+A3_open_P14,T9,A3_open_P14_T9,A3,open,P14,Pocillopora,Enriched,0,1,,T6
+A3_open_P14,T6,A3_open_P14_T6,A3,open,P14,Pocillopora,Enriched,1,1,,T6
+A3_open_P15,T9,A3_open_P15_T9,A3,open,P15,Pocillopora,Enriched,1,1,,T9
+A3_open_P02,T3,A3_open_P2_T3,A3,open,P02,Pocillopora,Enriched,1,1,,T3
+A3_open_P02,T9,A3_open_P2_T9,A3,open,P02,Pocillopora,Enriched,0,1,,T3
+A3_open_P02,T6,A3_open_P2_T6,A3,open,P02,Pocillopora,Enriched,0,1,,T3
+A3_open_P03,T9,A3_open_P3_T9,A3,open,P03,Pocillopora,Enriched,0,1,,T3
+A3_open_P03,T6,A3_open_P3_T6,A3,open,P03,Pocillopora,Enriched,0,1,,T3
+A3_open_P03,T3,A3_open_P3_T3,A3,open,P03,Pocillopora,Enriched,1,1,,T3
+A3_open_P04,T9,A3_open_P4_T9,A3,open,P04,Pocillopora,Enriched,0,1,,T3
+A3_open_P04,T3,A3_open_P4_T3,A3,open,P04,Pocillopora,Enriched,1,1,,T3
+A3_open_P04,T6,A3_open_P4_T6,A3,open,P04,Pocillopora,Enriched,0,1,,T3
+A3_open_P05,T3,A3_open_P5_T3,A3,open,P05,Pocillopora,Enriched,1,1,,T3
+A3_open_P05,T6,A3_open_P5_T6,A3,open,P05,Pocillopora,Enriched,0,1,,T3
+A3_open_P05,T9,A3_open_P5_T9,A3,open,P05,Pocillopora,Enriched,0,1,,T3
+A3_open_P06,T3,A3_open_P6_T3,A3,open,P06,Pocillopora,Enriched,1,1,,T3
+A3_open_P06,T6,A3_open_P6_T6,A3,open,P06,Pocillopora,Enriched,0,0,,T3
+A3_open_P06,T9,A3_open_P6_T9,A3,open,P06,Pocillopora,Enriched,0,0,,T3
+A3_open_P07,T6,A3_open_P7_T6,A3,open,P07,Pocillopora,Enriched,1,1,,T6
+A3_open_P07,T9,A3_open_P7_T9,A3,open,P07,Pocillopora,Enriched,0,1,,T6
+A3_open_P08,T6,A3_open_P8_T6,A3,open,P08,Pocillopora,Enriched,1,1,,T6
+A3_open_P08,T9,A3_open_P8_T9,A3,open,P08,Pocillopora,Enriched,0,1,,T6
+A3_open_P09,T9,A3_open_P9_T9,A3,open,P09,Pocillopora,Enriched,0,1,,T6
+A3_open_P09,T6,A3_open_P9_T6,A3,open,P09,Pocillopora,Enriched,1,1,,T6
+A4_1X1_P01,T9,A4_1X1_P1_T9,A4,1X1,P01,Pocillopora,Ambient,0,1,,T6
+A4_1X1_P01,T6,A4_1X1_P1_T6,A4,1X1,P01,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P11,T6,A4_1X1_P11_T6,A4,1X1,P11,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P11,T9,A4_1X1_P11_T9,A4,1X1,P11,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P11,T3,A4_1X1_P11_T3,A4,1X1,P11,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P12,T3,A4_1X1_P12_T3,A4,1X1,P12,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P12,T9,A4_1X1_P12_T9,A4,1X1,P12,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P12,T6,A4_1X1_P12_T6,A4,1X1,P12,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P13,T9,A4_1X1_P13_T9,A4,1X1,P13,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P13,T6,A4_1X1_P13_T6,A4,1X1,P13,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P13,T3,A4_1X1_P13_T3,A4,1X1,P13,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P14,T3,A4_1X1_P14_T3,A4,1X1,P14,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P14,T6,A4_1X1_P14_T6,A4,1X1,P14,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P14,T9,A4_1X1_P14_T9,A4,1X1,P14,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P16,T6,A4_1X1_P16_T6,A4,1X1,P16,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P16,T9,A4_1X1_P16_T9,A4,1X1,P16,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P16,T3,A4_1X1_P16_T3,A4,1X1,P16,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P17,T9,A4_1X1_P17_T9,A4,1X1,P17,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P17,T3,A4_1X1_P17_T3,A4,1X1,P17,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P17,T6,A4_1X1_P17_T6,A4,1X1,P17,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P18,T9,A4_1X1_P18_T9,A4,1X1,P18,Pocillopora,Ambient,0,0,,T6
+A4_1X1_P18,T6,A4_1X1_P18_T6,A4,1X1,P18,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P19,T6,A4_1X1_P19_T6,A4,1X1,P19,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P19,T9,A4_1X1_P19_T9,A4,1X1,P19,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P19,T3,A4_1X1_P19_T3,A4,1X1,P19,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P02,T9,A4_1X1_P2_T9,A4,1X1,P02,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P02,T3,A4_1X1_P2_T3,A4,1X1,P02,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P02,T6,A4_1X1_P2_T6,A4,1X1,P02,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P20,T6,A4_1X1_P20_T6,A4,1X1,P20,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P20,T9,A4_1X1_P20_T9,A4,1X1,P20,Pocillopora,Ambient,0,0,,T6
+A4_1X1_P21,T9,A4_1X1_P21_T9,A4,1X1,P21,Pocillopora,Ambient,0,1,,T6
+A4_1X1_P21,T6,A4_1X1_P21_T6,A4,1X1,P21,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P22,T9,A4_1X1_P22_T9,A4,1X1,P22,Pocillopora,Ambient,0,1,,T6
+A4_1X1_P22,T6,A4_1X1_P22_T6,A4,1X1,P22,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P23,T3,A4_1X1_P23_T3,A4,1X1,P23,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P23,T9,A4_1X1_P23_T9,A4,1X1,P23,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P23,T6,A4_1X1_P23_T6,A4,1X1,P23,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P24,T9,A4_1X1_P24_T9,A4,1X1,P24,Pocillopora,Ambient,1,1,"growing in from under skirt, likely recruited a while ago",T9
+A4_1X1_P25,T9,A4_1X1_P25_T9,A4,1X1,P25,Pocillopora,Ambient,1,1,,T3
+A4_1X1_P25,T6,A4_1X1_P25_T6,A4,1X1,P25,Pocillopora,Ambient,0,1,"can't see, but is alive at T9",T3
+A4_1X1_P25,T3,A4_1X1_P25_T3,A4,1X1,P25,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P26,T9,A4_1X1_P26_T9,A4,1X1,P26,Pocillopora,Ambient,1,1,,T9
+A4_1X1_P27,T9,A4_1X1_P27_T9,A4,1X1,P27,Pocillopora,Ambient,1,1,,T9
+A4_1X1_P28,T9,A4_1X1_P28_T9,A4,1X1,P28,Pocillopora,Ambient,1,1,,T9
+A4_1X1_P29,T9,A4_1X1_P29_T9,A4,1X1,P29,Pocillopora,Ambient,1,1,"is pretty big, grew out from under ledge, likely recruited a while ago",T9
+A4_1X1_P03,T9,A4_1X1_P3_T9,A4,1X1,P03,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P03,T3,A4_1X1_P3_T3,A4,1X1,P03,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P03,T6,A4_1X1_P3_T6,A4,1X1,P03,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P04,T3,A4_1X1_P4_T3,A4,1X1,P04,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P04,T9,A4_1X1_P4_T9,A4,1X1,P04,Pocillopora,Ambient,0,0,it's circled and difficult to see but i think it's dead. it's dead at t10,T3
+A4_1X1_P04,T6,A4_1X1_P4_T6,A4,1X1,P04,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P40,T3,A4_1X1_P40_T3,A4,1X1,P40,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P40,T3,A4_1X1_P40_T3,A4,1X1,P40,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P41,T3,A4_1X1_P41_T3,A4,1X1,P41,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P41,T3,A4_1X1_P41_T3,A4,1X1,P41,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P42,T3,A4_1X1_P42_T3,A4,1X1,P42,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P42,T3,A4_1X1_P42_T3,A4,1X1,P42,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P43,T3,A4_1X1_P43_T3,A4,1X1,P43,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P43,T3,A4_1X1_P43_T3,A4,1X1,P43,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P44,T3,A4_1X1_P44_T3,A4,1X1,P44,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P44,T3,A4_1X1_P44_T3,A4,1X1,P44,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P45,T3,A4_1X1_P45_T3,A4,1X1,P45,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P45,T3,A4_1X1_P45_T3,A4,1X1,P45,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P46,T3,A4_1X1_P46_T3,A4,1X1,P46,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P46,T3,A4_1X1_P46_T3,A4,1X1,P46,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P47,T3,A4_1X1_P47_T3,A4,1X1,P47,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P47,T3,A4_1X1_P47_T3,A4,1X1,P47,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P48,T3,A4_1X1_P48_T3,A4,1X1,P48,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P48,T3,A4_1X1_P48_T3,A4,1X1,P48,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P05,T9,A4_1X1_P5_T9,A4,1X1,P05,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P05,T3,A4_1X1_P5_T3,A4,1X1,P05,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P05,T6,A4_1X1_P5_T6,A4,1X1,P05,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P06,T9,A4_1X1_P6_T9,A4,1X1,P06,Pocillopora,Ambient,0,0,,T6
+A4_1X1_P06,T6,A4_1X1_P6_T6,A4,1X1,P06,Pocillopora,Ambient,1,1,,T6
+A4_1X1_P07,T3,A4_1X1_P7_T3,A4,1X1,P07,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_1X1_P07,T9,A4_1X1_P7_T9,A4,1X1,P07,Pocillopora,Ambient,0,0,,T3
+A4_1X1_P07,T6,A4_1X1_P7_T6,A4,1X1,P07,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P08,T3,A4_1X1_P8_T3,A4,1X1,P08,Pocillopora,Ambient,0,1,no T3 photomosaic. data from T2,T0
+A4_1X1_P08,T0,A4_1X1_P8_T0,A4,1X1,P08,Pocillopora,Ambient,1,1,0,T0
+A4_1X1_P08,T6,A4_1X1_P8_T6,A4,1X1,P08,Pocillopora,Ambient,0,1,,T0
+A4_1X1_P08,T9,A4_1X1_P8_T9,A4,1X1,P08,Pocillopora,Ambient,0,1,,T0
+A4_1X1_P09,T9,A4_1X1_P9_T9,A4,1X1,P09,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P09,T6,A4_1X1_P9_T6,A4,1X1,P09,Pocillopora,Ambient,0,1,,T3
+A4_1X1_P09,T3,A4_1X1_P9_T3,A4,1X1,P09,Pocillopora,Ambient,1,1,no T3 photomosaic. data from T2,T3
+A4_2X2_P01,T6,A4_2X2_P1_T6,A4,2X2,P01,Pocillopora,Ambient,0,1,also turbinaria,T0
+A4_2X2_P01,T3,A4_2X2_P1_T3,A4,2X2,P01,Pocillopora,Ambient,1,1,,T0
+A4_2X2_P01,T9,A4_2X2_P1_T9,A4,2X2,P01,Pocillopora,Ambient,0,1,,T0
+A4_2X2_P01,T0,A4_2X2_P1_T0,A4,2X2,P01,Pocillopora,Ambient,1,1,0,T0
+A4_2X2_P10,T6,A4_2X2_P10_T6,A4,2X2,P10,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P10,T3,A4_2X2_P10_T3,A4,2X2,P10,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P10,T9,A4_2X2_P10_T9,A4,2X2,P10,Pocillopora,Ambient,0,0,,T3
+A4_2X2_P11,T3,A4_2X2_P11_T3,A4,2X2,P11,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P11,T6,A4_2X2_P11_T6,A4,2X2,P11,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P11,T9,A4_2X2_P11_T9,A4,2X2,P11,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P12,T9,A4_2X2_P12_T9,A4,2X2,P12,Pocillopora,Ambient,0,1,,T0
+A4_2X2_P12,T3,A4_2X2_P12_T3,A4,2X2,P12,Pocillopora,Ambient,0,1,,T0
+A4_2X2_P12,T6,A4_2X2_P12_T6,A4,2X2,P12,Pocillopora,Ambient,0,1,,T0
+A4_2X2_P12,T0,A4_2X2_P12_T0,A4,2X2,P12,Pocillopora,Ambient,1,1,0,T0
+A4_2X2_P13,T9,A4_2X2_P13_T9,A4,2X2,P13,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P13,T3,A4_2X2_P13_T3,A4,2X2,P13,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P13,T6,A4_2X2_P13_T6,A4,2X2,P13,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P14,T3,A4_2X2_P14_T3,A4,2X2,P14,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P14,T6,A4_2X2_P14_T6,A4,2X2,P14,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P14,T9,A4_2X2_P14_T9,A4,2X2,P14,Pocillopora,Ambient,0,1,also turbinaria,T3
+A4_2X2_P16,T6,A4_2X2_P16_T6,A4,2X2,P16,Pocillopora,Ambient,1,1,,T6
+A4_2X2_P16,T9,A4_2X2_P16_T9,A4,2X2,P16,Pocillopora,Ambient,0,0,,T6
+A4_2X2_P17,T6,A4_2X2_P17_T6,A4,2X2,P17,Pocillopora,Ambient,1,1,,T6
+A4_2X2_P17,T9,A4_2X2_P17_T9,A4,2X2,P17,Pocillopora,Ambient,0,1,not visible but must be alive because we can see it in t 10,T6
+A4_2X2_P02,T6,A4_2X2_P2_T6,A4,2X2,P02,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P02,T3,A4_2X2_P2_T3,A4,2X2,P02,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P02,T9,A4_2X2_P2_T9,A4,2X2,P02,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P03,T6,A4_2X2_P3_T6,A4,2X2,P03,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P03,T9,A4_2X2_P3_T9,A4,2X2,P03,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P03,T3,A4_2X2_P3_T3,A4,2X2,P03,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P04,T6,A4_2X2_P4_T6,A4,2X2,P04,Pocillopora,Ambient,0,0,,T3
+A4_2X2_P04,T3,A4_2X2_P4_T3,A4,2X2,P04,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P04,T9,A4_2X2_P4_T9,A4,2X2,P04,Pocillopora,Ambient,0,0,,T3
+A4_2X2_P05,T9,A4_2X2_P5_T9,A4,2X2,P05,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P05,T3,A4_2X2_P5_T3,A4,2X2,P05,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P05,T6,A4_2X2_P5_T6,A4,2X2,P05,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P06,T9,A4_2X2_P6_T9,A4,2X2,P06,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P06,T6,A4_2X2_P6_T6,A4,2X2,P06,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P06,T3,A4_2X2_P6_T3,A4,2X2,P06,Pocillopora,Ambient,1,1,,T3
+A4_2X2_P07,T0,A4_2X2_P7_T0,A4,2X2,P07,Pocillopora,Ambient,1,1,0,T0
+A4_2X2_P07,T3,A4_2X2_P7_T3,A4,2X2,P07,Pocillopora,Ambient,0,0,,T0
+A4_2X2_P07,T6,A4_2X2_P7_T6,A4,2X2,P07,Pocillopora,Ambient,0,0,,T0
+A4_2X2_P07,T9,A4_2X2_P7_T9,A4,2X2,P07,Pocillopora,Ambient,0,0,,T0
+A4_2X2_P09,T6,A4_2X2_P9_T6,A4,2X2,P09,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P09,T9,A4_2X2_P9_T9,A4,2X2,P09,Pocillopora,Ambient,0,1,,T3
+A4_2X2_P09,T3,A4_2X2_P9_T3,A4,2X2,P09,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P01,T3,A4_3X3_P1_T3,A4,3X3,P01,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P01,T9,A4_3X3_P1_T9,A4,3X3,P01,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P01,T6,A4_3X3_P1_T6,A4,3X3,P01,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P11,T9,A4_3X3_P11_T9,A4,3X3,P11,Pocillopora,Ambient,0,0,,T6
+A4_3X3_P11,T6,A4_3X3_P11_T6,A4,3X3,P11,Pocillopora,Ambient,1,1,,T6
+A4_3X3_P12,T6,A4_3X3_P12_T6,A4,3X3,P12,Pocillopora,Ambient,1,1,,T6
+A4_3X3_P12,T9,A4_3X3_P12_T9,A4,3X3,P12,Pocillopora,Ambient,0,1,,T6
+A4_3X3_P13,T6,A4_3X3_P13_T6,A4,3X3,P13,Pocillopora,Ambient,1,0,i think this coral is missing. very difficult to see,T6
+A4_3X3_P13,T9,A4_3X3_P13_T9,A4,3X3,P13,Pocillopora,Ambient,0,0,,T6
+A4_3X3_P14,T9,A4_3X3_P14_T9,A4,3X3,P14,Pocillopora,Ambient,1,1,,T9
+A4_3X3_P15,T9,A4_3X3_P15_T9,A4,3X3,P15,Pocillopora,Ambient,1,1,,T9
+A4_3X3_P16,T9,A4_3X3_P16_T9,A4,3X3,P16,Pocillopora,Ambient,1,1,,T9
+A4_3X3_P02,T6,A4_3X3_P2_T6,A4,3X3,P02,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P02,T3,A4_3X3_P2_T3,A4,3X3,P02,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P02,T9,A4_3X3_P2_T9,A4,3X3,P02,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P03,T3,A4_3X3_P3_T3,A4,3X3,P03,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P03,T9,A4_3X3_P3_T9,A4,3X3,P03,Pocillopora,Ambient,0,0,,T3
+A4_3X3_P03,T6,A4_3X3_P3_T6,A4,3X3,P03,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P04,T3,A4_3X3_P4_T3,A4,3X3,P04,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P04,T6,A4_3X3_P4_T6,A4,3X3,P04,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P04,T9,A4_3X3_P4_T9,A4,3X3,P04,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P05,T9,A4_3X3_P5_T9,A4,3X3,P05,Pocillopora,Ambient,0,0,,T3
+A4_3X3_P05,T6,A4_3X3_P5_T6,A4,3X3,P05,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P05,T3,A4_3X3_P5_T3,A4,3X3,P05,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P06,T9,A4_3X3_P6_T9,A4,3X3,P06,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P06,T3,A4_3X3_P6_T3,A4,3X3,P06,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P06,T6,A4_3X3_P6_T6,A4,3X3,P06,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P07,T0,A4_3X3_P7_T0,A4,3X3,P07,Pocillopora,Ambient,1,1,0,T0
+A4_3X3_P07,T9,A4_3X3_P7_T9,A4,3X3,P07,Pocillopora,Ambient,0,0,,T0
+A4_3X3_P07,T6,A4_3X3_P7_T6,A4,3X3,P07,Pocillopora,Ambient,0,0,,T0
+A4_3X3_P07,T3,A4_3X3_P7_T3,A4,3X3,P07,Pocillopora,Ambient,0,0,,T0
+A4_3X3_P08,T9,A4_3X3_P8_T9,A4,3X3,P08,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P08,T6,A4_3X3_P8_T6,A4,3X3,P08,Pocillopora,Ambient,0,1,,T3
+A4_3X3_P08,T3,A4_3X3_P8_T3,A4,3X3,P08,Pocillopora,Ambient,1,1,,T3
+A4_3X3_P09,T6,A4_3X3_P9_T6,A4,3X3,P09,Pocillopora,Ambient,1,1,,T6
+A4_3X3_P09,T9,A4_3X3_P9_T9,A4,3X3,P09,Pocillopora,Ambient,0,1,,T6
+A4_open_P01,T3,A4_open_P1_T3,A4,open,P01,Pocillopora,Ambient,1,1,,T3
+A4_open_P01,T6,A4_open_P1_T6,A4,open,P01,Pocillopora,Ambient,0,1,,T3
+A4_open_P01,T9,A4_open_P1_T9,A4,open,P01,Pocillopora,Ambient,0,1,,T3
+A4_open_P10,T9,A4_open_P10_T9,A4,open,P10,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P10,T6,A4_open_P10_T6,A4,open,P10,Pocillopora,Ambient,1,1,,T6
+A4_open_P11,T9,A4_open_P11_T9,A4,open,P11,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P11,T6,A4_open_P11_T6,A4,open,P11,Pocillopora,Ambient,1,1,,T6
+A4_open_P12,T6,A4_open_P12_T6,A4,open,P12,Pocillopora,Ambient,1,1,,T6
+A4_open_P12,T9,A4_open_P12_T9,A4,open,P12,Pocillopora,Ambient,0,1,,T6
+A4_open_P13,T9,A4_open_P13_T9,A4,open,P13,Pocillopora,Ambient,0,1,,T6
+A4_open_P13,T6,A4_open_P13_T6,A4,open,P13,Pocillopora,Ambient,1,1,,T6
+A4_open_P14,T9,A4_open_P14_T9,A4,open,P14,Pocillopora,Ambient,0,1,,T6
+A4_open_P14,T6,A4_open_P14_T6,A4,open,P14,Pocillopora,Ambient,1,1,,T6
+A4_open_P15,T9,A4_open_P15_T9,A4,open,P15,Pocillopora,Ambient,1,1,,T9
+A4_open_P16,T9,A4_open_P16_T9,A4,open,P16,Pocillopora,Ambient,1,1,,T9
+A4_open_P17,T9,A4_open_P17_T9,A4,open,P17,Pocillopora,Ambient,1,1,,T9
+A4_open_P18,T9,A4_open_P18_T9,A4,open,P18,Pocillopora,Ambient,1,1,,T9
+A4_open_P02,T3,A4_open_P2_T3,A4,open,P02,Pocillopora,Ambient,1,1,,T3
+A4_open_P02,T9,A4_open_P2_T9,A4,open,P02,Pocillopora,Ambient,0,0,out of plot,T3
+A4_open_P02,T6,A4_open_P2_T6,A4,open,P02,Pocillopora,Ambient,0,1,,T3
+A4_open_P22,T9,A4_open_P22_T9,A4,open,P22,Pocillopora,Ambient,1,1,,T9
+A4_open_P23,T9,A4_open_P23_T9,A4,open,P23,Pocillopora,Ambient,1,1,,T9
+A4_open_P24,T9,A4_open_P24_T9,A4,open,P24,Pocillopora,Ambient,1,1,,T9
+A4_open_P03,T6,A4_open_P3_T6,A4,open,P03,Pocillopora,Ambient,1,1,,T6
+A4_open_P03,T9,A4_open_P3_T9,A4,open,P03,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P04,T6,A4_open_P4_T6,A4,open,P04,Pocillopora,Ambient,1,1,,T6
+A4_open_P04,T9,A4_open_P4_T9,A4,open,P04,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P05,T9,A4_open_P5_T9,A4,open,P05,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P05,T6,A4_open_P5_T6,A4,open,P05,Pocillopora,Ambient,1,1,,T6
+A4_open_P06,T9,A4_open_P6_T9,A4,open,P06,Pocillopora,Ambient,0,1,,T6
+A4_open_P06,T6,A4_open_P6_T6,A4,open,P06,Pocillopora,Ambient,1,1,,T6
+A4_open_P07,T6,A4_open_P7_T6,A4,open,P07,Pocillopora,Ambient,1,1,,T6
+A4_open_P07,T9,A4_open_P7_T9,A4,open,P07,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P08,T6,A4_open_P8_T6,A4,open,P08,Pocillopora,Ambient,1,1,,T6
+A4_open_P08,T9,A4_open_P8_T9,A4,open,P08,Pocillopora,Ambient,0,0,out of plot,T6
+A4_open_P09,T6,A4_open_P9_T6,A4,open,P09,Pocillopora,Ambient,1,1,,T6
+A4_open_P09,T9,A4_open_P9_T9,A4,open,P09,Pocillopora,Ambient,0,0,out of plot,T6
+B1_1X1_P01,T9,B1_1X1_P1_T9,B1,1X1,P01,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P01,T3,B1_1X1_P1_T3,B1,1X1,P01,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P01,T6,B1_1X1_P1_T6,B1,1X1,P01,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P10,T9,B1_1X1_P10_T9,B1,1X1,P10,Pocillopora,Enriched,0,1,,T6
+B1_1X1_P10,T6,B1_1X1_P10_T6,B1,1X1,P10,Pocillopora,Enriched,1,1,,T6
+B1_1X1_P11,T9,B1_1X1_P11_T9,B1,1X1,P11,Pocillopora,Enriched,0,1,,T6
+B1_1X1_P11,T6,B1_1X1_P11_T6,B1,1X1,P11,Pocillopora,Enriched,1,1,,T6
+B1_1X1_P13,T9,B1_1X1_P13_T9,B1,1X1,P13,Pocillopora,Enriched,1,1,,T9
+B1_1X1_P14,T9,B1_1X1_P14_T9,B1,1X1,P14,Pocillopora,Enriched,1,1,,T9
+B1_1X1_P15,T9,B1_1X1_P15_T9,B1,1X1,P15,Pocillopora,Enriched,1,1,maybe bleached?,T9
+B1_1X1_P16,T9,B1_1X1_P16_T9,B1,1X1,P16,Pocillopora,Enriched,1,1,,T9
+B1_1X1_P02,T9,B1_1X1_P2_T9,B1,1X1,P02,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P02,T6,B1_1X1_P2_T6,B1,1X1,P02,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P02,T3,B1_1X1_P2_T3,B1,1X1,P02,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P03,T6,B1_1X1_P3_T6,B1,1X1,P03,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P03,T3,B1_1X1_P3_T3,B1,1X1,P03,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P03,T9,B1_1X1_P3_T9,B1,1X1,P03,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P04,T6,B1_1X1_P4_T6,B1,1X1,P04,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P04,T3,B1_1X1_P4_T3,B1,1X1,P04,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P04,T9,B1_1X1_P4_T9,B1,1X1,P04,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P05,T3,B1_1X1_P5_T3,B1,1X1,P05,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P05,T6,B1_1X1_P5_T6,B1,1X1,P05,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P05,T9,B1_1X1_P5_T9,B1,1X1,P05,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P06,T6,B1_1X1_P6_T6,B1,1X1,P06,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P06,T9,B1_1X1_P6_T9,B1,1X1,P06,Pocillopora,Enriched,0,1,,T3
+B1_1X1_P06,T3,B1_1X1_P6_T3,B1,1X1,P06,Pocillopora,Enriched,1,1,,T3
+B1_1X1_P07,T9,B1_1X1_P7_T9,B1,1X1,P07,Pocillopora,Enriched,0,1,,T6
+B1_1X1_P07,T6,B1_1X1_P7_T6,B1,1X1,P07,Pocillopora,Enriched,1,1,,T6
+B1_1X1_P08,T9,B1_1X1_P8_T9,B1,1X1,P08,Pocillopora,Enriched,0,0,,T6
+B1_1X1_P08,T6,B1_1X1_P8_T6,B1,1X1,P08,Pocillopora,Enriched,1,1,,T6
+B1_1X1_P09,T9,B1_1X1_P9_T9,B1,1X1,P09,Pocillopora,Enriched,0,1,,T6
+B1_1X1_P09,T6,B1_1X1_P9_T6,B1,1X1,P09,Pocillopora,Enriched,1,1,,T6
+B1_2X2_P10,T9,B1_2X2_P10_T9,B1,2X2,P10,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P10,T6,B1_2X2_P10_T6,B1,2X2,P10,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P10,T3,B1_2X2_P10_T3,B1,2X2,P10,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P11,T9,B1_2X2_P11_T9,B1,2X2,P11,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P11,T3,B1_2X2_P11_T3,B1,2X2,P11,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P11,T6,B1_2X2_P11_T6,B1,2X2,P11,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P12,T9,B1_2X2_P12_T9,B1,2X2,P12,Pocillopora,Enriched,0,1,,T6
+B1_2X2_P12,T6,B1_2X2_P12_T6,B1,2X2,P12,Pocillopora,Enriched,1,1,"pretty big, probably recruited previously but was obscured by lobophora",T6
+B1_2X2_P13,T9,B1_2X2_P13_T9,B1,2X2,P13,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P13,T6,B1_2X2_P13_T6,B1,2X2,P13,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P13,T3,B1_2X2_P13_T3,B1,2X2,P13,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P14A,T6,B1_2X2_P14A_T6,B1,2X2,P14A,Pocillopora,Enriched,1,1,,T6
+B1_2X2_P14A,T9,B1_2X2_P14A_T9,B1,2X2,P14A,Pocillopora,Enriched,0,1,,T6
+B1_2X2_P14B,T6,B1_2X2_P14B_T6,B1,2X2,P14B,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P14B,T9,B1_2X2_P14B_T9,B1,2X2,P14B,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P14B,T3,B1_2X2_P14B_T3,B1,2X2,P14B,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P15,T9,B1_2X2_P15_T9,B1,2X2,P15,Pocillopora,Enriched,0,1,,T0
+B1_2X2_P15,T3,B1_2X2_P15_T3,B1,2X2,P15,Pocillopora,Enriched,0,1,,T0
+B1_2X2_P15,T6,B1_2X2_P15_T6,B1,2X2,P15,Pocillopora,Enriched,0,1,"almost completely obscured, but can barely see it",T0
+B1_2X2_P15,T0,B1_2X2_P15_T0,B1,2X2,P15,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P17,T9,B1_2X2_P17_T9,B1,2X2,P17,Pocillopora,Enriched,1,1,,T9
+B1_2X2_P18,T9,B1_2X2_P18_T9,B1,2X2,P18,Pocillopora,Enriched,1,1,,T9
+B1_2X2_P19,T9,B1_2X2_P19_T9,B1,2X2,P19,Pocillopora,Enriched,1,1,,T9
+B1_2X2_P02,T6,B1_2X2_P2_T6,B1,2X2,P02,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P02,T3,B1_2X2_P2_T3,B1,2X2,P02,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P02,T9,B1_2X2_P2_T9,B1,2X2,P02,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P03,T9,B1_2X2_P3_T9,B1,2X2,P03,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P03,T3,B1_2X2_P3_T3,B1,2X2,P03,Pocillopora,Enriched,1,1,,T3
+B1_2X2_P03,T6,B1_2X2_P3_T6,B1,2X2,P03,Pocillopora,Enriched,0,1,,T3
+B1_2X2_P04,T9,B1_2X2_P4_T9,B1,2X2,P04,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P04,T3,B1_2X2_P4_T3,B1,2X2,P04,Pocillopora,Enriched,0,0,side of plot where orthomosaic didn't resolve well,T0
+B1_2X2_P04,T6,B1_2X2_P4_T6,B1,2X2,P04,Pocillopora,Enriched,0,0,"side of plot where orthomosaic didn't resolve well, gone now",T0
+B1_2X2_P04,T0,B1_2X2_P4_T0,B1,2X2,P04,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P05,T9,B1_2X2_P5_T9,B1,2X2,P05,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P05,T6,B1_2X2_P5_T6,B1,2X2,P05,Pocillopora,Enriched,0,0,"side of plot where orthomosaic didn't resolve well, gone now",T0
+B1_2X2_P05,T3,B1_2X2_P5_T3,B1,2X2,P05,Pocillopora,Enriched,0,0,side of plot where orthomosaic didn't resolve well,T0
+B1_2X2_P05,T0,B1_2X2_P5_T0,B1,2X2,P05,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P06,T0,B1_2X2_P6_T0,B1,2X2,P06,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P06,T6,B1_2X2_P6_T6,B1,2X2,P06,Pocillopora,Enriched,0,0,"side of plot where orthomosaic didn't resolve well, gone now",T0
+B1_2X2_P06,T9,B1_2X2_P6_T9,B1,2X2,P06,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P06,T3,B1_2X2_P6_T3,B1,2X2,P06,Pocillopora,Enriched,0,0,side of plot where orthomosaic didn't resolve well,T0
+B1_2X2_P07,T9,B1_2X2_P7_T9,B1,2X2,P07,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P07,T3,B1_2X2_P7_T3,B1,2X2,P07,Pocillopora,Enriched,0,0,obscured by diffuser,T0
+B1_2X2_P07,T6,B1_2X2_P7_T6,B1,2X2,P07,Pocillopora,Enriched,0,0,obscured by diffuser,T0
+B1_2X2_P07,T0,B1_2X2_P7_T0,B1,2X2,P07,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P08,T3,B1_2X2_P8_T3,B1,2X2,P08,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P08,T6,B1_2X2_P8_T6,B1,2X2,P08,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P08,T9,B1_2X2_P8_T9,B1,2X2,P08,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P08,T0,B1_2X2_P8_T0,B1,2X2,P08,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P09,T9,B1_2X2_P9_T9,B1,2X2,P09,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P09,T0,B1_2X2_P9_T0,B1,2X2,P09,Pocillopora,Enriched,1,1,0,T0
+B1_2X2_P09,T6,B1_2X2_P9_T6,B1,2X2,P09,Pocillopora,Enriched,0,0,,T0
+B1_2X2_P09,T3,B1_2X2_P9_T3,B1,2X2,P09,Pocillopora,Enriched,0,1,,T0
+B1_3X3_P01,T6,B1_3X3_P1_T6,B1,3X3,P01,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P01,T3,B1_3X3_P1_T3,B1,3X3,P01,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P01,T9,B1_3X3_P1_T9,B1,3X3,P01,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P10,T6,B1_3X3_P10_T6,B1,3X3,P10,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P10,T9,B1_3X3_P10_T9,B1,3X3,P10,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P10,T3,B1_3X3_P10_T3,B1,3X3,P10,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P11,T6,B1_3X3_P11_T6,B1,3X3,P11,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P11,T9,B1_3X3_P11_T9,B1,3X3,P11,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P11,T3,B1_3X3_P11_T3,B1,3X3,P11,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P12,T9,B1_3X3_P12_T9,B1,3X3,P12,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P12,T3,B1_3X3_P12_T3,B1,3X3,P12,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P12,T6,B1_3X3_P12_T6,B1,3X3,P12,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P13,T9,B1_3X3_P13_T9,B1,3X3,P13,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P13,T3,B1_3X3_P13_T3,B1,3X3,P13,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P13,T6,B1_3X3_P13_T6,B1,3X3,P13,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P16,T9,B1_3X3_P16_T9,B1,3X3,P16,Pocillopora,Enriched,0,1,,T6
+B1_3X3_P16,T6,B1_3X3_P16_T6,B1,3X3,P16,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P17,T9,B1_3X3_P17_T9,B1,3X3,P17,Pocillopora,Enriched,0,1,,T6
+B1_3X3_P17,T6,B1_3X3_P17_T6,B1,3X3,P17,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P18A,T9,B1_3X3_P18A_T9,B1,3X3,P18A,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P18A,T6,B1_3X3_P18A_T6,B1,3X3,P18A,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P18B,T6,B1_3X3_P18B_T6,B1,3X3,P18B,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P18B,T9,B1_3X3_P18B_T9,B1,3X3,P18B,Pocillopora,Enriched,0,1,,T6
+B1_3X3_P19A,T9,B1_3X3_P19A_T9,B1,3X3,P19A,Pocillopora,Enriched,0,1,,T6
+B1_3X3_P19A,T6,B1_3X3_P19A_T6,B1,3X3,P19A,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P19B,T6,B1_3X3_P19B_T6,B1,3X3,P19B,Pocillopora,Enriched,1,1,,T6
+B1_3X3_P19B,T9,B1_3X3_P19B_T9,B1,3X3,P19B,Pocillopora,Enriched,0,1,,T6
+B1_3X3_P21,T9,B1_3X3_P21_T9,B1,3X3,P21,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P22,T9,B1_3X3_P22_T9,B1,3X3,P22,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P23,T9,B1_3X3_P23_T9,B1,3X3,P23,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P24,T9,B1_3X3_P24_T9,B1,3X3,P24,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P25,T9,B1_3X3_P25_T9,B1,3X3,P25,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P26,T9,B1_3X3_P26_T9,B1,3X3,P26,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P29,T9,B1_3X3_P29_T9,B1,3X3,P29,Pocillopora,Enriched,1,1,,T9
+B1_3X3_P03,T6,B1_3X3_P3_T6,B1,3X3,P03,Pocillopora,Enriched,0,1,,T0
+B1_3X3_P03,T3,B1_3X3_P3_T3,B1,3X3,P03,Pocillopora,Enriched,0,1,,T0
+B1_3X3_P03,T0,B1_3X3_P3_T0,B1,3X3,P03,Pocillopora,Enriched,1,1,0,T0
+B1_3X3_P03,T9,B1_3X3_P3_T9,B1,3X3,P03,Pocillopora,Enriched,0,1,,T0
+B1_3X3_P31,T3,B1_3X3_P31_T3,B1,3X3,P31,Pocillopora,Enriched,0,0,,T0
+B1_3X3_P31,T9,B1_3X3_P31_T9,B1,3X3,P31,Pocillopora,Enriched,0,0,,T0
+B1_3X3_P31,T0,B1_3X3_P31_T0,B1,3X3,P31,Pocillopora,Enriched,1,1,0,T0
+B1_3X3_P32,T9,B1_3X3_P32_T9,B1,3X3,P32,Pocillopora,Enriched,0,0,,T0
+B1_3X3_P32,T3,B1_3X3_P32_T3,B1,3X3,P32,Pocillopora,Enriched,0,0,,T0
+B1_3X3_P32,T0,B1_3X3_P32_T0,B1,3X3,P32,Pocillopora,Enriched,1,1,0,T0
+B1_3X3_P04,T9,B1_3X3_P4_T9,B1,3X3,P04,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P04,T3,B1_3X3_P4_T3,B1,3X3,P04,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P04,T6,B1_3X3_P4_T6,B1,3X3,P04,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P05,T3,B1_3X3_P5_T3,B1,3X3,P05,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P05,T9,B1_3X3_P5_T9,B1,3X3,P05,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P05,T6,B1_3X3_P5_T6,B1,3X3,P05,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P06,T9,B1_3X3_P6_T9,B1,3X3,P06,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P06,T6,B1_3X3_P6_T6,B1,3X3,P06,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P06,T3,B1_3X3_P6_T3,B1,3X3,P06,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P07,T9,B1_3X3_P7_T9,B1,3X3,P07,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P07,T3,B1_3X3_P7_T3,B1,3X3,P07,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P07,T6,B1_3X3_P7_T6,B1,3X3,P07,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P08,T6,B1_3X3_P8_T6,B1,3X3,P08,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P08,T9,B1_3X3_P8_T9,B1,3X3,P08,Pocillopora,Enriched,0,0,,T3
+B1_3X3_P08,T3,B1_3X3_P8_T3,B1,3X3,P08,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P09,T6,B1_3X3_P9_T6,B1,3X3,P09,Pocillopora,Enriched,0,1,,T3
+B1_3X3_P09,T3,B1_3X3_P9_T3,B1,3X3,P09,Pocillopora,Enriched,1,1,,T3
+B1_3X3_P09,T9,B1_3X3_P9_T9,B1,3X3,P09,Pocillopora,Enriched,0,1,,T3
+B1_open_P01,T9,B1_open_P1_T9,B1,open,P01,Pocillopora,Enriched,0,0,,T3
+B1_open_P01,T3,B1_open_P1_T3,B1,open,P01,Pocillopora,Enriched,1,1,,T3
+B1_open_P01,T6,B1_open_P1_T6,B1,open,P01,Pocillopora,Enriched,0,0,,T3
+B1_open_P12A,T9,B1_open_P12A_T9,B1,open,P12A,Pocillopora,Enriched,0,1,,T6
+B1_open_P12A,T6,B1_open_P12A_T6,B1,open,P12A,Pocillopora,Enriched,1,1,,T6
+B1_open_P12B,T6,B1_open_P12B_T6,B1,open,P12B,Pocillopora,Enriched,0,1,,T3
+B1_open_P12B,T3,B1_open_P12B_T3,B1,open,P12B,Pocillopora,Enriched,1,1,,T3
+B1_open_P12B,T9,B1_open_P12B_T9,B1,open,P12B,Pocillopora,Enriched,0,0,,T3
+B1_open_P13,T9,B1_open_P13_T9,B1,open,P13,Pocillopora,Enriched,0,1,,T6
+B1_open_P13,T6,B1_open_P13_T6,B1,open,P13,Pocillopora,Enriched,1,1,,T6
+B1_open_P14,T9,B1_open_P14_T9,B1,open,P14,Pocillopora,Enriched,1,1,,T9
+B1_open_P15,T9,B1_open_P15_T9,B1,open,P15,Pocillopora,Enriched,1,1,"appeared at T9, but wasn't a recruit. rolled in from otuside",T9
+B1_open_P16,T9,B1_open_P16_T9,B1,open,P16,Pocillopora,Enriched,1,1,"appeared at T9, but wasn't a recruit. rolled in from otuside",T9
+B1_open_P17,T9,B1_open_P17_T9,B1,open,P17,Pocillopora,Enriched,1,1,new recruit,T9
+B1_open_P18,T9,B1_open_P18_T9,B1,open,P18,Pocillopora,Enriched,1,1,"new at T9, but it's on the edge of the plot.",T9
+B1_open_P02,T3,B1_open_P2_T3,B1,open,P02,Pocillopora,Enriched,1,1,,T3
+B1_open_P02,T9,B1_open_P2_T9,B1,open,P02,Pocillopora,Enriched,0,0,,T3
+B1_open_P02,T6,B1_open_P2_T6,B1,open,P02,Pocillopora,Enriched,0,0,,T3
+B1_open_P03,T6,B1_open_P3_T6,B1,open,P03,Pocillopora,Enriched,0,1,,T3
+B1_open_P03,T3,B1_open_P3_T3,B1,open,P03,Pocillopora,Enriched,1,1,,T3
+B1_open_P03,T9,B1_open_P3_T9,B1,open,P03,Pocillopora,Enriched,0,1,,T3
+B1_open_P04,T6,B1_open_P4_T6,B1,open,P04,Pocillopora,Enriched,0,1,,T3
+B1_open_P04,T9,B1_open_P4_T9,B1,open,P04,Pocillopora,Enriched,0,1,,T3
+B1_open_P04,T3,B1_open_P4_T3,B1,open,P04,Pocillopora,Enriched,1,1,,T3
+B1_open_P05,T3,B1_open_P5_T3,B1,open,P05,Pocillopora,Enriched,1,1,,T3
+B1_open_P05,T9,B1_open_P5_T9,B1,open,P05,Pocillopora,Enriched,0,1,,T3
+B1_open_P05,T6,B1_open_P5_T6,B1,open,P05,Pocillopora,Enriched,0,1,,T3
+B1_open_P06,T9,B1_open_P6_T9,B1,open,P06,Pocillopora,Enriched,0,1,,T3
+B1_open_P06,T6,B1_open_P6_T6,B1,open,P06,Pocillopora,Enriched,0,1,,T3
+B1_open_P06,T3,B1_open_P6_T3,B1,open,P06,Pocillopora,Enriched,1,1,,T3
+B1_open_P07,T3,B1_open_P7_T3,B1,open,P07,Pocillopora,Enriched,1,1,,T3
+B1_open_P07,T9,B1_open_P7_T9,B1,open,P07,Pocillopora,Enriched,0,1,,T3
+B1_open_P07,T6,B1_open_P7_T6,B1,open,P07,Pocillopora,Enriched,0,1,,T3
+B1_open_P08,T9,B1_open_P8_T9,B1,open,P08,Pocillopora,Enriched,0,1,,T6
+B1_open_P08,T6,B1_open_P8_T6,B1,open,P08,Pocillopora,Enriched,1,1,,T6
+B1_open_P09,T9,B1_open_P9_T9,B1,open,P09,Pocillopora,Enriched,0,0,,T6
+B1_open_P09,T6,B1_open_P9_T6,B1,open,P09,Pocillopora,Enriched,1,1,,T6
+B2_1X1_P10,T3,B2_1X1_P10_T3,B2,1X1,P10,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P10,T6,B2_1X1_P10_T6,B2,1X1,P10,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P10,T9,B2_1X1_P10_T9,B2,1X1,P10,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P11,T3,B2_1X1_P11_T3,B2,1X1,P11,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P11,T9,B2_1X1_P11_T9,B2,1X1,P11,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P11,T6,B2_1X1_P11_T6,B2,1X1,P11,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P12,T3,B2_1X1_P12_T3,B2,1X1,P12,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P12,T6,B2_1X1_P12_T6,B2,1X1,P12,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P12,T9,B2_1X1_P12_T9,B2,1X1,P12,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P15,T9,B2_1X1_P15_T9,B2,1X1,P15,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P15,T3,B2_1X1_P15_T3,B2,1X1,P15,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P15,T6,B2_1X1_P15_T6,B2,1X1,P15,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P16,T6,B2_1X1_P16_T6,B2,1X1,P16,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P16,T9,B2_1X1_P16_T9,B2,1X1,P16,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P16,T3,B2_1X1_P16_T3,B2,1X1,P16,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P18,T9,B2_1X1_P18_T9,B2,1X1,P18,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P18,T3,B2_1X1_P18_T3,B2,1X1,P18,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P18,T6,B2_1X1_P18_T6,B2,1X1,P18,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P19,T9,B2_1X1_P19_T9,B2,1X1,P19,Pocillopora,Ambient,0,1,,T6
+B2_1X1_P19,T6,B2_1X1_P19_T6,B2,1X1,P19,Pocillopora,Ambient,1,1,,T6
+B2_1X1_P02,T9,B2_1X1_P2_T9,B2,1X1,P02,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P02,T6,B2_1X1_P2_T6,B2,1X1,P02,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P02,T3,B2_1X1_P2_T3,B2,1X1,P02,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P20,T6,B2_1X1_P20_T6,B2,1X1,P20,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P20,T3,B2_1X1_P20_T3,B2,1X1,P20,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P20,T9,B2_1X1_P20_T9,B2,1X1,P20,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P21,T9,B2_1X1_P21_T9,B2,1X1,P21,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P22,T9,B2_1X1_P22_T9,B2,1X1,P22,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P23,T3,B2_1X1_P23_T3,B2,1X1,P23,Pocillopora,Ambient,0,1,,T0
+B2_1X1_P23,T6,B2_1X1_P23_T6,B2,1X1,P23,Pocillopora,Ambient,0,1,can't see in photomosaic but must be there because we can see at T3 and T9. don't need to measure this timepoint,T0
+B2_1X1_P23,T0,B2_1X1_P23_T0,B2,1X1,P23,Pocillopora,Ambient,1,1,0,T0
+B2_1X1_P23,T9,B2_1X1_P23_T9,B2,1X1,P23,Pocillopora,Ambient,1,1,,T0
+B2_1X1_P24,T3,B2_1X1_P24_T3,B2,1X1,P24,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P24,T6,B2_1X1_P24_T6,B2,1X1,P24,Pocillopora,Ambient,0,1,can't see in photomosaic but must be there because we can see at T3 and T9. don't need to measure this timepoint,T3
+B2_1X1_P24,T9,B2_1X1_P24_T9,B2,1X1,P24,Pocillopora,Ambient,0,1,first time numbered but it's big and recruited previously,T3
+B2_1X1_P25,T6,B2_1X1_P25_T6,B2,1X1,P25,Pocillopora,Ambient,1,1,,T6
+B2_1X1_P25,T9,B2_1X1_P25_T9,B2,1X1,P25,Pocillopora,Ambient,0,1,,T6
+B2_1X1_P26,T9,B2_1X1_P26_T9,B2,1X1,P26,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P27,T9,B2_1X1_P27_T9,B2,1X1,P27,Pocillopora,Ambient,1,1,possibly under tile at later timepoint,T9
+B2_1X1_P28,T9,B2_1X1_P28_T9,B2,1X1,P28,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P29,T9,B2_1X1_P29_T9,B2,1X1,P29,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P03,T9,B2_1X1_P3_T9,B2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+B2_1X1_P03,T0,B2_1X1_P3_T0,B2,1X1,P03,Pocillopora,Ambient,1,1,0,T0
+B2_1X1_P03,T3,B2_1X1_P3_T3,B2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+B2_1X1_P03,T6,B2_1X1_P3_T6,B2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+B2_1X1_P30,T6,B2_1X1_P30_T6,B2,1X1,P30,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P30,T3,B2_1X1_P30_T3,B2,1X1,P30,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P30,T9,B2_1X1_P30_T9,B2,1X1,P30,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P31,T9,B2_1X1_P31_T9,B2,1X1,P31,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P32,T9,B2_1X1_P32_T9,B2,1X1,P32,Pocillopora,Ambient,1,1,,T9
+B2_1X1_P04,T6,B2_1X1_P4_T6,B2,1X1,P04,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P04,T9,B2_1X1_P4_T9,B2,1X1,P04,Pocillopora,Ambient,0,0,,T3
+B2_1X1_P04,T3,B2_1X1_P4_T3,B2,1X1,P04,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P05,T9,B2_1X1_P5_T9,B2,1X1,P05,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P05,T3,B2_1X1_P5_T3,B2,1X1,P05,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P05,T6,B2_1X1_P5_T6,B2,1X1,P05,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P06,T3,B2_1X1_P6_T3,B2,1X1,P06,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P06,T9,B2_1X1_P6_T9,B2,1X1,P06,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P06,T6,B2_1X1_P6_T6,B2,1X1,P06,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P07,T3,B2_1X1_P7_T3,B2,1X1,P07,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P07,T6,B2_1X1_P7_T6,B2,1X1,P07,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P07,T9,B2_1X1_P7_T9,B2,1X1,P07,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P08,T9,B2_1X1_P8_T9,B2,1X1,P08,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P08,T6,B2_1X1_P8_T6,B2,1X1,P08,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P08,T3,B2_1X1_P8_T3,B2,1X1,P08,Pocillopora,Ambient,1,1,,T3
+B2_1X1_P09,T9,B2_1X1_P9_T9,B2,1X1,P09,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P09,T6,B2_1X1_P9_T6,B2,1X1,P09,Pocillopora,Ambient,0,1,,T3
+B2_1X1_P09,T3,B2_1X1_P9_T3,B2,1X1,P09,Pocillopora,Ambient,1,1,,T3
+B2_2X2_P01,T9,B2_2X2_P1_T9,B2,2X2,P01,Pocillopora,Ambient,0,0,,T3
+B2_2X2_P01,T3,B2_2X2_P1_T3,B2,2X2,P01,Pocillopora,Ambient,1,1,,T3
+B2_2X2_P01,T6,B2_2X2_P1_T6,B2,2X2,P01,Pocillopora,Ambient,0,0,,T3
+B2_2X2_P10,T9,B2_2X2_P10_T9,B2,2X2,P10,Pocillopora,Ambient,1,1,,T9
+B2_2X2_P02,T6,B2_2X2_P2_T6,B2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+B2_2X2_P02,T3,B2_2X2_P2_T3,B2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+B2_2X2_P02,T0,B2_2X2_P2_T0,B2,2X2,P02,Pocillopora,Ambient,1,1,0,T0
+B2_2X2_P02,T9,B2_2X2_P2_T9,B2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+B2_2X2_P03,T3,B2_2X2_P3_T3,B2,2X2,P03,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P03,T9,B2_2X2_P3_T9,B2,2X2,P03,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P03,T6,B2_2X2_P3_T6,B2,2X2,P03,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P03,T0,B2_2X2_P3_T0,B2,2X2,P03,Pocillopora,Ambient,1,1,0,T0
+B2_2X2_P04,T6,B2_2X2_P4_T6,B2,2X2,P04,Pocillopora,Ambient,0,0,,T3
+B2_2X2_P04,T9,B2_2X2_P4_T9,B2,2X2,P04,Pocillopora,Ambient,0,0,,T3
+B2_2X2_P04,T3,B2_2X2_P4_T3,B2,2X2,P04,Pocillopora,Ambient,1,1,,T3
+B2_2X2_P05,T0,B2_2X2_P5_T0,B2,2X2,P05,Pocillopora,Ambient,1,1,0,T0
+B2_2X2_P05,T3,B2_2X2_P5_T3,B2,2X2,P05,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P05,T6,B2_2X2_P5_T6,B2,2X2,P05,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P05,T9,B2_2X2_P5_T9,B2,2X2,P05,Pocillopora,Ambient,0,1,,T0
+B2_2X2_P06,T9,B2_2X2_P6_T9,B2,2X2,P06,Pocillopora,Ambient,0,1,,T6
+B2_2X2_P06,T6,B2_2X2_P6_T6,B2,2X2,P06,Pocillopora,Ambient,1,1,,T6
+B2_2X2_P07,T3,B2_2X2_P7_T3,B2,2X2,P07,Pocillopora,Ambient,1,1,,T3
+B2_2X2_P07,T6,B2_2X2_P7_T6,B2,2X2,P07,Pocillopora,Ambient,0,1,,T3
+B2_2X2_P07,T9,B2_2X2_P7_T9,B2,2X2,P07,Pocillopora,Ambient,0,1,,T3
+B2_2X2_P08,T9,B2_2X2_P8_T9,B2,2X2,P08,Pocillopora,Ambient,0,1,is new but recruited a while ago. partially under skirt / out of cage,T6
+B2_2X2_P08,T6,B2_2X2_P8_T6,B2,2X2,P08,Pocillopora,Ambient,1,1,,T6
+B2_2X2_P09,T9,B2_2X2_P9_T9,B2,2X2,P09,Pocillopora,Ambient,0,1,,T6
+B2_2X2_P09,T6,B2_2X2_P9_T6,B2,2X2,P09,Pocillopora,Ambient,1,1,,T6
+B2_3X3_P01,T6,B2_3X3_P1_T6,B2,3X3,P01,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P01,T9,B2_3X3_P1_T9,B2,3X3,P01,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P01,T3,B2_3X3_P1_T3,B2,3X3,P01,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P10,T9,B2_3X3_P10_T9,B2,3X3,P10,Pocillopora,Ambient,0,0,under a different encrusting coral,T0
+B2_3X3_P10,T6,B2_3X3_P10_T6,B2,3X3,P10,Pocillopora,Ambient,0,0,under a different encrusting coral,T0
+B2_3X3_P10,T0,B2_3X3_P10_T0,B2,3X3,P10,Pocillopora,Ambient,1,1,0,T0
+B2_3X3_P10,T3,B2_3X3_P10_T3,B2,3X3,P10,Pocillopora,Ambient,0,0,under a different encrusting coral,T0
+B2_3X3_P12,T6,B2_3X3_P12_T6,B2,3X3,P12,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P12,T3,B2_3X3_P12_T3,B2,3X3,P12,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P12,T9,B2_3X3_P12_T9,B2,3X3,P12,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P13,T9,B2_3X3_P13_T9,B2,3X3,P13,Pocillopora,Ambient,0,0,,T3
+B2_3X3_P13,T6,B2_3X3_P13_T6,B2,3X3,P13,Pocillopora,Ambient,0,0,,T3
+B2_3X3_P13,T3,B2_3X3_P13_T3,B2,3X3,P13,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P14,T3,B2_3X3_P14_T3,B2,3X3,P14,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P14,T6,B2_3X3_P14_T6,B2,3X3,P14,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P14,T9,B2_3X3_P14_T9,B2,3X3,P14,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P15,T3,B2_3X3_P15_T3,B2,3X3,P15,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P15,T9,B2_3X3_P15_T9,B2,3X3,P15,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P15,T6,B2_3X3_P15_T6,B2,3X3,P15,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P16,T3,B2_3X3_P16_T3,B2,3X3,P16,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P16,T9,B2_3X3_P16_T9,B2,3X3,P16,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P16,T6,B2_3X3_P16_T6,B2,3X3,P16,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P17,T3,B2_3X3_P17_T3,B2,3X3,P17,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P17,T6,B2_3X3_P17_T6,B2,3X3,P17,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P17,T9,B2_3X3_P17_T9,B2,3X3,P17,Pocillopora,Ambient,0,0,,T3
+B2_3X3_P18,T6,B2_3X3_P18_T6,B2,3X3,P18,Pocillopora,Ambient,1,1,,T6
+B2_3X3_P18,T9,B2_3X3_P18_T9,B2,3X3,P18,Pocillopora,Ambient,0,1,,T6
+B2_3X3_P19,T9,B2_3X3_P19_T9,B2,3X3,P19,Pocillopora,Ambient,0,1,,T6
+B2_3X3_P19,T6,B2_3X3_P19_T6,B2,3X3,P19,Pocillopora,Ambient,1,1,,T6
+B2_3X3_P02,T9,B2_3X3_P2_T9,B2,3X3,P02,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P02,T3,B2_3X3_P2_T3,B2,3X3,P02,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P02,T6,B2_3X3_P2_T6,B2,3X3,P02,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P20,T6,B2_3X3_P20_T6,B2,3X3,P20,Pocillopora,Ambient,1,1,,T6
+B2_3X3_P20,T9,B2_3X3_P20_T9,B2,3X3,P20,Pocillopora,Ambient,0,0,,T6
+B2_3X3_P21,T9,B2_3X3_P21_T9,B2,3X3,P21,Pocillopora,Ambient,0,1,,T6
+B2_3X3_P21,T6,B2_3X3_P21_T6,B2,3X3,P21,Pocillopora,Ambient,1,1,,T6
+B2_3X3_P22,T9,B2_3X3_P22_T9,B2,3X3,P22,Pocillopora,Ambient,0,1,is growing in from outside of the cage. exclude,T6
+B2_3X3_P22,T6,B2_3X3_P22_T6,B2,3X3,P22,Pocillopora,Ambient,1,1,may have recruited previously,T6
+B2_3X3_P03,T3,B2_3X3_P3_T3,B2,3X3,P03,Pocillopora,Ambient,1,1,might be in the corner but not visible because the ortho isn't resolved well,T3
+B2_3X3_P03,T9,B2_3X3_P3_T9,B2,3X3,P03,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P03,T6,B2_3X3_P3_T6,B2,3X3,P03,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P04,T9,B2_3X3_P4_T9,B2,3X3,P04,Pocillopora,Ambient,0,0,could have been overgrown by neighboring Acropora,T3
+B2_3X3_P04,T3,B2_3X3_P4_T3,B2,3X3,P04,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P04,T6,B2_3X3_P4_T6,B2,3X3,P04,Pocillopora,Ambient,0,0,could have been overgrown by neighboring Acropora,T3
+B2_3X3_P05,T0,B2_3X3_P5_T0,B2,3X3,P05,Pocillopora,Ambient,1,1,0,T0
+B2_3X3_P05,T9,B2_3X3_P5_T9,B2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+B2_3X3_P05,T6,B2_3X3_P5_T6,B2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+B2_3X3_P05,T3,B2_3X3_P5_T3,B2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+B2_3X3_P06,T6,B2_3X3_P6_T6,B2,3X3,P06,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P06,T9,B2_3X3_P6_T9,B2,3X3,P06,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P06,T3,B2_3X3_P6_T3,B2,3X3,P06,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P07,T3,B2_3X3_P7_T3,B2,3X3,P07,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P07,T9,B2_3X3_P7_T9,B2,3X3,P07,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P07,T6,B2_3X3_P7_T6,B2,3X3,P07,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P08,T9,B2_3X3_P8_T9,B2,3X3,P08,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P08,T3,B2_3X3_P8_T3,B2,3X3,P08,Pocillopora,Ambient,1,1,,T3
+B2_3X3_P08,T6,B2_3X3_P8_T6,B2,3X3,P08,Pocillopora,Ambient,0,1,,T3
+B2_3X3_P09,T6,B2_3X3_P9_T6,B2,3X3,P09,Pocillopora,Ambient,0,0,,T0
+B2_3X3_P09,T9,B2_3X3_P9_T9,B2,3X3,P09,Pocillopora,Ambient,0,0,,T0
+B2_3X3_P09,T0,B2_3X3_P9_T0,B2,3X3,P09,Pocillopora,Ambient,1,1,0,T0
+B2_3X3_P09,T3,B2_3X3_P9_T3,B2,3X3,P09,Pocillopora,Ambient,0,1,,T0
+B2_open_P01,T6,B2_open_P1_T6,B2,open,P01,Pocillopora,Ambient,0,1,,T3
+B2_open_P01,T9,B2_open_P1_T9,B2,open,P01,Pocillopora,Ambient,0,1,,T3
+B2_open_P01,T3,B2_open_P1_T3,B2,open,P01,Pocillopora,Ambient,1,1,,T3
+B2_open_P10,T9,B2_open_P10_T9,B2,open,P10,Pocillopora,Ambient,0,1,,T6
+B2_open_P10,T6,B2_open_P10_T6,B2,open,P10,Pocillopora,Ambient,1,1,,T6
+B2_open_P11,T6,B2_open_P11_T6,B2,open,P11,Pocillopora,Ambient,1,1,,T6
+B2_open_P11,T9,B2_open_P11_T9,B2,open,P11,Pocillopora,Ambient,0,1,,T6
+B2_open_P12,T6,B2_open_P12_T6,B2,open,P12,Pocillopora,Ambient,1,1,,T6
+B2_open_P12,T9,B2_open_P12_T9,B2,open,P12,Pocillopora,Ambient,0,1,,T6
+B2_open_P13,T9,B2_open_P13_T9,B2,open,P13,Pocillopora,Ambient,1,1,,T9
+B2_open_P14,T9,B2_open_P14_T9,B2,open,P14,Pocillopora,Ambient,1,1,,T9
+B2_open_P15,T9,B2_open_P15_T9,B2,open,P15,Pocillopora,Ambient,1,1,,T9
+B2_open_P17,T6,B2_open_P17_T6,B2,open,P17,Pocillopora,Ambient,1,1,,T6
+B2_open_P17,T9,B2_open_P17_T9,B2,open,P17,Pocillopora,Ambient,0,1,,T6
+B2_open_P02,T3,B2_open_P2_T3,B2,open,P02,Pocillopora,Ambient,1,1,,T3
+B2_open_P02,T6,B2_open_P2_T6,B2,open,P02,Pocillopora,Ambient,0,1,,T3
+B2_open_P02,T9,B2_open_P2_T9,B2,open,P02,Pocillopora,Ambient,0,1,,T3
+B2_open_P03,T9,B2_open_P3_T9,B2,open,P03,Pocillopora,Ambient,0,1,,T3
+B2_open_P03,T6,B2_open_P3_T6,B2,open,P03,Pocillopora,Ambient,0,1,,T3
+B2_open_P03,T3,B2_open_P3_T3,B2,open,P03,Pocillopora,Ambient,1,1,,T3
+B2_open_P04,T3,B2_open_P4_T3,B2,open,P04,Pocillopora,Ambient,1,1,,T3
+B2_open_P04,T6,B2_open_P4_T6,B2,open,P04,Pocillopora,Ambient,0,1,,T3
+B2_open_P04,T9,B2_open_P4_T9,B2,open,P04,Pocillopora,Ambient,0,1,,T3
+B2_open_P05,T3,B2_open_P5_T3,B2,open,P05,Pocillopora,Ambient,0,1,,T0
+B2_open_P05,T6,B2_open_P5_T6,B2,open,P05,Pocillopora,Ambient,0,1,,T0
+B2_open_P05,T9,B2_open_P5_T9,B2,open,P05,Pocillopora,Ambient,0,1,,T0
+B2_open_P05,T0,B2_open_P5_T0,B2,open,P05,Pocillopora,Ambient,1,1,0,T0
+B2_open_P06,T3,B2_open_P6_T3,B2,open,P06,Pocillopora,Ambient,1,1,,T3
+B2_open_P06,T9,B2_open_P6_T9,B2,open,P06,Pocillopora,Ambient,0,0,,T3
+B2_open_P06,T6,B2_open_P6_T6,B2,open,P06,Pocillopora,Ambient,0,0,,T3
+B2_open_P07,T3,B2_open_P7_T3,B2,open,P07,Pocillopora,Ambient,1,1,,T3
+B2_open_P07,T6,B2_open_P7_T6,B2,open,P07,Pocillopora,Ambient,0,1,,T3
+B2_open_P07,T9,B2_open_P7_T9,B2,open,P07,Pocillopora,Ambient,0,1,,T3
+B2_open_P08,T3,B2_open_P8_T3,B2,open,P08,Pocillopora,Ambient,1,1,,T3
+B2_open_P08,T6,B2_open_P8_T6,B2,open,P08,Pocillopora,Ambient,0,1,,T3
+B2_open_P08,T9,B2_open_P8_T9,B2,open,P08,Pocillopora,Ambient,0,1,,T3
+B2_open_P09,T9,B2_open_P9_T9,B2,open,P09,Pocillopora,Ambient,0,1,,T6
+B2_open_P09,T6,B2_open_P9_T6,B2,open,P09,Pocillopora,Ambient,1,1,,T6
+C2_1X1_P01,T0,C2_1X1_P1_T0,C2,1X1,P01,Pocillopora,Ambient,1,1,0,T0
+C2_1X1_P01,T9,C2_1X1_P1_T9,C2,1X1,P01,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P01,T6,C2_1X1_P1_T6,C2,1X1,P01,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P01,T3,C2_1X1_P1_T3,C2,1X1,P01,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P10,T9,C2_1X1_P10_T9,C2,1X1,P10,Pocillopora,Ambient,1,1,,T9
+C2_1X1_P11,T9,C2_1X1_P11_T9,C2,1X1,P11,Pocillopora,Ambient,1,1,,T9
+C2_1X1_P12,T9,C2_1X1_P12_T9,C2,1X1,P12,Pocillopora,Ambient,1,1,Looks like this one is not attached as its in a differnent place in T10--this is Deron's comment not mine.  It looks attached to me,T9
+C2_1X1_P13,T9,C2_1X1_P13_T9,C2,1X1,P13,Pocillopora,Ambient,1,1,,T9
+C2_1X1_P14,T9,C2_1X1_P14_T9,C2,1X1,P14,Pocillopora,Ambient,1,1,,T9
+C2_1X1_P15,T9,C2_1X1_P15_T9,C2,1X1,P15,Pocillopora,Ambient,1,1,,T9
+C2_1X1_P16,T9,C2_1X1_P16_T9,C2,1X1,P16,Pocillopora,Ambient,1,1,Looks like a mix of halimeda nad lobophora,T9
+C2_1X1_P17,T6,C2_1X1_P17_T6,C2,1X1,P17,Pocillopora,Ambient,1,1,Pretty amazing--it looks like this coral settled on lobophora,T6
+C2_1X1_P17,T9,C2_1X1_P17_T9,C2,1X1,P17,Pocillopora,Ambient,0,1,Looks like a mix of halimeda and lobophora--obscured in photomosaic and hard to tell,T6
+C2_1X1_P02,T9,C2_1X1_P2_T9,C2,1X1,P02,Pocillopora,Ambient,0,1,,T3
+C2_1X1_P02,T3,C2_1X1_P2_T3,C2,1X1,P02,Pocillopora,Ambient,1,1,,T3
+C2_1X1_P02,T6,C2_1X1_P2_T6,C2,1X1,P02,Pocillopora,Ambient,0,1,,T3
+C2_1X1_P03,T0,C2_1X1_P3_T0,C2,1X1,P03,Pocillopora,Ambient,1,1,0,T0
+C2_1X1_P03,T6,C2_1X1_P3_T6,C2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P03,T3,C2_1X1_P3_T3,C2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P03,T9,C2_1X1_P3_T9,C2,1X1,P03,Pocillopora,Ambient,0,1,,T0
+C2_1X1_P04,T3,C2_1X1_P4_T3,C2,1X1,P04,Pocillopora,Ambient,1,1,,T3
+C2_1X1_P04,T9,C2_1X1_P4_T9,C2,1X1,P04,Pocillopora,Ambient,0,1,,T3
+C2_1X1_P04,T6,C2_1X1_P4_T6,C2,1X1,P04,Pocillopora,Ambient,0,1,,T3
+C2_1X1_P06,T9,C2_1X1_P6_T9,C2,1X1,P06,Pocillopora,Ambient,0,1,"It looks like this could possibly be P6; If so, it is detached and has move some",T6
+C2_1X1_P06,T6,C2_1X1_P6_T6,C2,1X1,P06,Pocillopora,Ambient,1,1,,T6
+C2_1X1_P07,T6,C2_1X1_P7_T6,C2,1X1,P07,Pocillopora,Ambient,1,1,,T6
+C2_1X1_P07,T9,C2_1X1_P7_T9,C2,1X1,P07,Pocillopora,Ambient,0,0,,T6
+C2_1X1_P08,T6,C2_1X1_P8_T6,C2,1X1,P08,Pocillopora,Ambient,1,1,Under some lobophora and halimeda,T6
+C2_1X1_P08,T9,C2_1X1_P8_T9,C2,1X1,P08,Pocillopora,Ambient,0,1,Under some lobophora and halimeda,T6
+C2_1X1_P09,T6,C2_1X1_P9_T6,C2,1X1,P09,Pocillopora,Ambient,1,1,,T6
+C2_1X1_P09,T9,C2_1X1_P9_T9,C2,1X1,P09,Pocillopora,Ambient,0,1,,T6
+C2_2X2_P01,T3,C2_2X2_P1_T3,C2,2X2,P01,Pocillopora,Ambient,1,1,,T3
+C2_2X2_P01,T9,C2_2X2_P1_T9,C2,2X2,P01,Pocillopora,Ambient,0,1,This coral has been labeled as P7 in T6. It is on a loose piece of coral rubble and is moving around the plot,T3
+C2_2X2_P01,T6,C2_2X2_P1_T6,C2,2X2,P01,Pocillopora,Ambient,0,1,This coral has been labeled as P7 in T6. It is on a loose piece of coral rubble and is moving around the plot,T3
+C2_2X2_P02,T0,C2_2X2_P2_T0,C2,2X2,P02,Pocillopora,Ambient,1,1,0,T0
+C2_2X2_P02,T3,C2_2X2_P2_T3,C2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P02,T9,C2_2X2_P2_T9,C2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P02,T6,C2_2X2_P2_T6,C2,2X2,P02,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P03,T9,C2_2X2_P3_T9,C2,2X2,P03,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P03,T0,C2_2X2_P3_T0,C2,2X2,P03,Pocillopora,Ambient,1,1,0,T0
+C2_2X2_P03,T6,C2_2X2_P3_T6,C2,2X2,P03,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P03,T3,C2_2X2_P3_T3,C2,2X2,P03,Pocillopora,Ambient,0,0,,T0
+C2_2X2_P04,T6,C2_2X2_P4_T6,C2,2X2,P04,Pocillopora,Ambient,0,1,,T3
+C2_2X2_P04,T3,C2_2X2_P4_T3,C2,2X2,P04,Pocillopora,Ambient,1,1,,T3
+C2_2X2_P04,T9,C2_2X2_P4_T9,C2,2X2,P04,Pocillopora,Ambient,0,1,,T3
+C2_2X2_P05,T9,C2_2X2_P5_T9,C2,2X2,P05,Pocillopora,Ambient,0,1,,T3
+C2_2X2_P05,T6,C2_2X2_P5_T6,C2,2X2,P05,Pocillopora,Ambient,0,1,Right next to small patch of turbinaria,T3
+C2_2X2_P05,T3,C2_2X2_P5_T3,C2,2X2,P05,Pocillopora,Ambient,1,1,,T3
+C2_2X2_P06,T9,C2_2X2_P6_T9,C2,2X2,P06,Pocillopora,Ambient,0,1,,T6
+C2_2X2_P06,T6,C2_2X2_P6_T6,C2,2X2,P06,Pocillopora,Ambient,1,1,Along edge of plot; partially obscured,T6
+C2_2X2_P08,T6,C2_2X2_P8_T6,C2,2X2,P08,Pocillopora,Ambient,0,0,This coral is along edge of plot. It is probably under lobophora but it is impossible to tell,T3
+C2_2X2_P08,T3,C2_2X2_P8_T3,C2,2X2,P08,Pocillopora,Ambient,1,1,"Along edge, half outside cage",T3
+C2_2X2_P09,T9,C2_2X2_P9_T9,C2,2X2,P09,Pocillopora,Ambient,1,1,,T9
+C2_3X3_P01,T9,C2_3X3_P1_T9,C2,3X3,P01,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P01,T6,C2_3X3_P1_T6,C2,3X3,P01,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P01,T0,C2_3X3_P1_T0,C2,3X3,P01,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P01,T3,C2_3X3_P1_T3,C2,3X3,P01,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P10,T9,C2_3X3_P10_T9,C2,3X3,P10,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P10,T6,C2_3X3_P10_T6,C2,3X3,P10,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P10,T3,C2_3X3_P10_T3,C2,3X3,P10,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P11,T6,C2_3X3_P11_T6,C2,3X3,P11,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P11,T9,C2_3X3_P11_T9,C2,3X3,P11,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P11,T3,C2_3X3_P11_T3,C2,3X3,P11,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P12,T9,C2_3X3_P12_T9,C2,3X3,P12,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P12,T3,C2_3X3_P12_T3,C2,3X3,P12,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P12,T6,C2_3X3_P12_T6,C2,3X3,P12,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P13,T0,C2_3X3_P13_T0,C2,3X3,P13,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P13,T9,C2_3X3_P13_T9,C2,3X3,P13,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P13,T3,C2_3X3_P13_T3,C2,3X3,P13,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P13,T6,C2_3X3_P13_T6,C2,3X3,P13,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P14,T6,C2_3X3_P14_T6,C2,3X3,P14,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P14,T3,C2_3X3_P14_T3,C2,3X3,P14,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P14,T9,C2_3X3_P14_T9,C2,3X3,P14,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P15,T6,C2_3X3_P15_T6,C2,3X3,P15,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P15,T3,C2_3X3_P15_T3,C2,3X3,P15,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P15,T9,C2_3X3_P15_T9,C2,3X3,P15,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P16,T9,C2_3X3_P16_T9,C2,3X3,P16,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P16,T3,C2_3X3_P16_T3,C2,3X3,P16,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P16,T6,C2_3X3_P16_T6,C2,3X3,P16,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P17,T9,C2_3X3_P17_T9,C2,3X3,P17,Pocillopora,Ambient,0,1,Being crowded out by Acropora,T3
+C2_3X3_P17,T3,C2_3X3_P17_T3,C2,3X3,P17,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P17,T6,C2_3X3_P17_T6,C2,3X3,P17,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P18,T6,C2_3X3_P18_T6,C2,3X3,P18,Pocillopora,Ambient,0,0,Presumed dead. Crowded out by A5,T3
+C2_3X3_P18,T3,C2_3X3_P18_T3,C2,3X3,P18,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P18,T9,C2_3X3_P18_T9,C2,3X3,P18,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P19,T3,C2_3X3_P19_T3,C2,3X3,P19,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P19,T9,C2_3X3_P19_T9,C2,3X3,P19,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P19,T6,C2_3X3_P19_T6,C2,3X3,P19,Pocillopora,Ambient,0,0,Presumed dead. Crowded out by A6,T3
+C2_3X3_P02,T6,C2_3X3_P2_T6,C2,3X3,P02,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P02,T9,C2_3X3_P2_T9,C2,3X3,P02,Pocillopora,Ambient,0,0,,T0
+C2_3X3_P02,T0,C2_3X3_P2_T0,C2,3X3,P02,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P02,T3,C2_3X3_P2_T3,C2,3X3,P02,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P20,T6,C2_3X3_P20_T6,C2,3X3,P20,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P20,T3,C2_3X3_P20_T3,C2,3X3,P20,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P20,T9,C2_3X3_P20_T9,C2,3X3,P20,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P21,T3,C2_3X3_P21_T3,C2,3X3,P21,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P21,T9,C2_3X3_P21_T9,C2,3X3,P21,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P21,T6,C2_3X3_P21_T6,C2,3X3,P21,Pocillopora,Ambient,0,0,Presumed dead' crowded out by P20?,T3
+C2_3X3_P22,T9,C2_3X3_P22_T9,C2,3X3,P22,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P22,T6,C2_3X3_P22_T6,C2,3X3,P22,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P22,T3,C2_3X3_P22_T3,C2,3X3,P22,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P22,T0,C2_3X3_P22_T0,C2,3X3,P22,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P23,T3,C2_3X3_P23_T3,C2,3X3,P23,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P23,T6,C2_3X3_P23_T6,C2,3X3,P23,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P23,T9,C2_3X3_P23_T9,C2,3X3,P23,Pocillopora,Ambient,0,0,Looks like this coral was on a pieced of coral rubble during T6,T3
+C2_3X3_P24,T6,C2_3X3_P24_T6,C2,3X3,P24,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P24,T9,C2_3X3_P24_T9,C2,3X3,P24,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P24,T3,C2_3X3_P24_T3,C2,3X3,P24,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P25,T9,C2_3X3_P25_T9,C2,3X3,P25,Pocillopora,Ambient,0,0,,T3
+C2_3X3_P25,T6,C2_3X3_P25_T6,C2,3X3,P25,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P25,T3,C2_3X3_P25_T3,C2,3X3,P25,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P26,T6,C2_3X3_P26_T6,C2,3X3,P26,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P26,T9,C2_3X3_P26_T9,C2,3X3,P26,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P26,T3,C2_3X3_P26_T3,C2,3X3,P26,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P27A,T6,C2_3X3_P27A_T6,C2,3X3,P27A,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P27A,T9,C2_3X3_P27A_T9,C2,3X3,P27A,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P27B,T9,C2_3X3_P27B_T9,C2,3X3,P27B,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P27B,T6,C2_3X3_P27B_T6,C2,3X3,P27B,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P28,T6,C2_3X3_P28_T6,C2,3X3,P28,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P28,T9,C2_3X3_P28_T9,C2,3X3,P28,Pocillopora,Ambient,0,0,Could also be under montipora,T6
+C2_3X3_P29,T9,C2_3X3_P29_T9,C2,3X3,P29,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P29,T6,C2_3X3_P29_T6,C2,3X3,P29,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P03,T6,C2_3X3_P3_T6,C2,3X3,P03,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P03,T3,C2_3X3_P3_T3,C2,3X3,P03,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P03,T9,C2_3X3_P3_T9,C2,3X3,P03,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P03,T0,C2_3X3_P3_T0,C2,3X3,P03,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P30,T9,C2_3X3_P30_T9,C2,3X3,P30,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P30,T6,C2_3X3_P30_T6,C2,3X3,P30,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P31,T6,C2_3X3_P31_T6,C2,3X3,P31,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P31,T9,C2_3X3_P31_T9,C2,3X3,P31,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P32,T9,C2_3X3_P32_T9,C2,3X3,P32,Pocillopora,Ambient,0,1,,T6
+C2_3X3_P32,T6,C2_3X3_P32_T6,C2,3X3,P32,Pocillopora,Ambient,1,1,,T6
+C2_3X3_P33,T9,C2_3X3_P33_T9,C2,3X3,P33,Pocillopora,Ambient,1,1,,T9
+C2_3X3_P34,T9,C2_3X3_P34_T9,C2,3X3,P34,Pocillopora,Ambient,1,1,,T9
+C2_3X3_P35,T9,C2_3X3_P35_T9,C2,3X3,P35,Pocillopora,Ambient,1,1,,T9
+C2_3X3_P36,T9,C2_3X3_P36_T9,C2,3X3,P36,Pocillopora,Ambient,1,1,,T9
+C2_3X3_P04,T3,C2_3X3_P4_T3,C2,3X3,P04,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P04,T9,C2_3X3_P4_T9,C2,3X3,P04,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P04,T6,C2_3X3_P4_T6,C2,3X3,P04,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P05,T9,C2_3X3_P5_T9,C2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P05,T3,C2_3X3_P5_T3,C2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P05,T6,C2_3X3_P5_T6,C2,3X3,P05,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P05,T0,C2_3X3_P5_T0,C2,3X3,P05,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P06,T3,C2_3X3_P6_T3,C2,3X3,P06,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P06,T0,C2_3X3_P6_T0,C2,3X3,P06,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P06,T6,C2_3X3_P6_T6,C2,3X3,P06,Pocillopora,Ambient,0,0,,T0
+C2_3X3_P06,T9,C2_3X3_P6_T9,C2,3X3,P06,Pocillopora,Ambient,0,0,,T0
+C2_3X3_P07,T9,C2_3X3_P7_T9,C2,3X3,P07,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P07,T3,C2_3X3_P7_T3,C2,3X3,P07,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P07,T6,C2_3X3_P7_T6,C2,3X3,P07,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P08,T9,C2_3X3_P8_T9,C2,3X3,P08,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P08,T3,C2_3X3_P8_T3,C2,3X3,P08,Pocillopora,Ambient,1,1,,T3
+C2_3X3_P08,T6,C2_3X3_P8_T6,C2,3X3,P08,Pocillopora,Ambient,0,1,,T3
+C2_3X3_P09,T0,C2_3X3_P9_T0,C2,3X3,P09,Pocillopora,Ambient,1,1,0,T0
+C2_3X3_P09,T3,C2_3X3_P9_T3,C2,3X3,P09,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P09,T6,C2_3X3_P9_T6,C2,3X3,P09,Pocillopora,Ambient,0,1,,T0
+C2_3X3_P09,T9,C2_3X3_P9_T9,C2,3X3,P09,Pocillopora,Ambient,0,1,,T0
+C2_open_A05,T9,C2_open_A5_T9,C2,open,A05,Pocillopora,Ambient,0,1,,T6
+C2_open_A05,T6,C2_open_A5_T6,C2,open,A05,Pocillopora,Ambient,1,1,,T6
+C2_open_P01,T9,C2_open_P1_T9,C2,open,P01,Pocillopora,Ambient,0,1,,T3
+C2_open_P01,T3,C2_open_P1_T3,C2,open,P01,Pocillopora,Ambient,1,1,,T3
+C2_open_P01,T6,C2_open_P1_T6,C2,open,P01,Pocillopora,Ambient,0,1,,T3
+C2_open_P10,T9,C2_open_P10_T9,C2,open,P10,Pocillopora,Ambient,0,0,,T3
+C2_open_P10,T3,C2_open_P10_T3,C2,open,P10,Pocillopora,Ambient,1,1,,T3
+C2_open_P10,T6,C2_open_P10_T6,C2,open,P10,Pocillopora,Ambient,0,0,,T3
+C2_open_P11,T6,C2_open_P11_T6,C2,open,P11,Pocillopora,Ambient,0,1,,T3
+C2_open_P11,T9,C2_open_P11_T9,C2,open,P11,Pocillopora,Ambient,0,1,,T3
+C2_open_P11,T3,C2_open_P11_T3,C2,open,P11,Pocillopora,Ambient,1,1,,T3
+C2_open_P12,T9,C2_open_P12_T9,C2,open,P12,Pocillopora,Ambient,0,1,,T6
+C2_open_P12,T6,C2_open_P12_T6,C2,open,P12,Pocillopora,Ambient,1,1,,T6
+C2_open_P13,T9,C2_open_P13_T9,C2,open,P13,Pocillopora,Ambient,0,1,,T6
+C2_open_P13,T6,C2_open_P13_T6,C2,open,P13,Pocillopora,Ambient,1,1,,T6
+C2_open_P14,T6,C2_open_P14_T6,C2,open,P14,Pocillopora,Ambient,1,1,,T6
+C2_open_P14,T9,C2_open_P14_T9,C2,open,P14,Pocillopora,Ambient,0,1,,T6
+C2_open_P15,T6,C2_open_P15_T6,C2,open,P15,Pocillopora,Ambient,1,1,,T6
+C2_open_P15,T9,C2_open_P15_T9,C2,open,P15,Pocillopora,Ambient,0,1,,T6
+C2_open_P16,T6,C2_open_P16_T6,C2,open,P16,Pocillopora,Ambient,1,1,,T6
+C2_open_P16,T9,C2_open_P16_T9,C2,open,P16,Pocillopora,Ambient,0,1,,T6
+C2_open_P17,T3,C2_open_P17_T3,C2,open,P17,Pocillopora,Ambient,1,1,,T3
+C2_open_P17,T6,C2_open_P17_T6,C2,open,P17,Pocillopora,Ambient,0,1,,T3
+C2_open_P17,T9,C2_open_P17_T9,C2,open,P17,Pocillopora,Ambient,0,1,,T3
+C2_open_P18,T6,C2_open_P18_T6,C2,open,P18,Pocillopora,Ambient,1,1,,T6
+C2_open_P18,T9,C2_open_P18_T9,C2,open,P18,Pocillopora,Ambient,0,1,,T6
+C2_open_P19,T9,C2_open_P19_T9,C2,open,P19,Pocillopora,Ambient,0,1,,T6
+C2_open_P19,T6,C2_open_P19_T6,C2,open,P19,Pocillopora,Ambient,1,1,,T6
+C2_open_P02,T3,C2_open_P2_T3,C2,open,P02,Pocillopora,Ambient,1,1,,T3
+C2_open_P02,T6,C2_open_P2_T6,C2,open,P02,Pocillopora,Ambient,0,1,,T3
+C2_open_P02,T9,C2_open_P2_T9,C2,open,P02,Pocillopora,Ambient,0,1,,T3
+C2_open_P21,T9,C2_open_P21_T9,C2,open,P21,Pocillopora,Ambient,0,1,,T6
+C2_open_P21,T6,C2_open_P21_T6,C2,open,P21,Pocillopora,Ambient,1,1,,T6
+C2_open_P22,T6,C2_open_P22_T6,C2,open,P22,Pocillopora,Ambient,1,1,,T6
+C2_open_P22,T9,C2_open_P22_T9,C2,open,P22,Pocillopora,Ambient,0,1,,T6
+C2_open_P23,T9,C2_open_P23_T9,C2,open,P23,Pocillopora,Ambient,0,0,,T6
+C2_open_P23,T6,C2_open_P23_T6,C2,open,P23,Pocillopora,Ambient,1,1,,T6
+C2_open_P24,T9,C2_open_P24_T9,C2,open,P24,Pocillopora,Ambient,1,1,,T9
+C2_open_P25,T9,C2_open_P25_T9,C2,open,P25,Pocillopora,Ambient,1,1,,T9
+C2_open_P26,T9,C2_open_P26_T9,C2,open,P26,Pocillopora,Ambient,1,1,,T9
+C2_open_P28,T9,C2_open_P28_T9,C2,open,P28,Pocillopora,Ambient,1,1,,T9
+C2_open_P29,T9,C2_open_P29_T9,C2,open,P29,Pocillopora,Ambient,1,1,,T9
+C2_open_P03,T6,C2_open_P3_T6,C2,open,P03,Pocillopora,Ambient,0,1,,T3
+C2_open_P03,T3,C2_open_P3_T3,C2,open,P03,Pocillopora,Ambient,1,1,,T3
+C2_open_P03,T9,C2_open_P3_T9,C2,open,P03,Pocillopora,Ambient,0,1,,T3
+C2_open_P30,T6,C2_open_P30_T6,C2,open,P30,Pocillopora,Ambient,1,1,,T6
+C2_open_P30,T9,C2_open_P30_T9,C2,open,P30,Pocillopora,Ambient,0,1,,T6
+C2_open_P31,T9,C2_open_P31_T9,C2,open,P31,Pocillopora,Ambient,0,1,,T6
+C2_open_P31,T6,C2_open_P31_T6,C2,open,P31,Pocillopora,Ambient,1,1,,T6
+C2_open_P32,T9,C2_open_P32_T9,C2,open,P32,Pocillopora,Ambient,0,1,,T6
+C2_open_P32,T6,C2_open_P32_T6,C2,open,P32,Pocillopora,Ambient,1,1,,T6
+C2_open_P33,T6,C2_open_P33_T6,C2,open,P33,Pocillopora,Ambient,1,1,,T6
+C2_open_P33,T9,C2_open_P33_T9,C2,open,P33,Pocillopora,Ambient,0,1,,T6
+C2_open_P34,T9,C2_open_P34_T9,C2,open,P34,Pocillopora,Ambient,1,1,,T9
+C2_open_P35,T9,C2_open_P35_T9,C2,open,P35,Pocillopora,Ambient,1,1,,T9
+C2_open_P04,T6,C2_open_P4_T6,C2,open,P04,Pocillopora,Ambient,0,1,,T0
+C2_open_P04,T9,C2_open_P4_T9,C2,open,P04,Pocillopora,Ambient,0,1,,T0
+C2_open_P04,T0,C2_open_P4_T0,C2,open,P04,Pocillopora,Ambient,1,1,0,T0
+C2_open_P04,T3,C2_open_P4_T3,C2,open,P04,Pocillopora,Ambient,0,1,,T0
+C2_open_P05,T9,C2_open_P5_T9,C2,open,P05,Pocillopora,Ambient,0,1,This coral was incorrectly labelled as P27,T3
+C2_open_P05,T6,C2_open_P5_T6,C2,open,P05,Pocillopora,Ambient,0,1,This coral was incorrectly labelled as a new coral (P27),T3
+C2_open_P05,T3,C2_open_P5_T3,C2,open,P05,Pocillopora,Ambient,1,1,,T3
+C2_open_P06,T9,C2_open_P6_T9,C2,open,P06,Pocillopora,Ambient,0,1,,T3
+C2_open_P06,T3,C2_open_P6_T3,C2,open,P06,Pocillopora,Ambient,1,1,,T3
+C2_open_P06,T6,C2_open_P6_T6,C2,open,P06,Pocillopora,Ambient,0,1,,T3
+C2_open_P07,T9,C2_open_P7_T9,C2,open,P07,Pocillopora,Ambient,0,1,This coral was incorrectly labeled as P20 in the photomosaic,T0
+C2_open_P07,T3,C2_open_P7_T3,C2,open,P07,Pocillopora,Ambient,0,1,,T0
+C2_open_P07,T0,C2_open_P7_T0,C2,open,P07,Pocillopora,Ambient,1,1,0,T0
+C2_open_P07,T6,C2_open_P7_T6,C2,open,P07,Pocillopora,Ambient,0,1,This coral was incorrectly labeled as a new coral (P20) in the photomosaic,T0
+C2_open_P08,T3,C2_open_P8_T3,C2,open,P08,Pocillopora,Ambient,1,1,,T3
+C2_open_P08,T6,C2_open_P8_T6,C2,open,P08,Pocillopora,Ambient,0,1,,T3
+C2_open_P08,T9,C2_open_P8_T9,C2,open,P08,Pocillopora,Ambient,0,1,,T3
+C2_open_P09,T9,C2_open_P9_T9,C2,open,P09,Pocillopora,Ambient,0,1,,T3
+C2_open_P09,T3,C2_open_P9_T3,C2,open,P09,Pocillopora,Ambient,1,1,,T3
+C2_open_P09,T6,C2_open_P9_T6,C2,open,P09,Pocillopora,Ambient,0,1,,T3
+C4_1X1_P01,T9,C4_1X1_P1_T9,C4,1X1,P01,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P01,T3,C4_1X1_P1_T3,C4,1X1,P01,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P01,T6,C4_1X1_P1_T6,C4,1X1,P01,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P10,T9,C4_1X1_P10_T9,C4,1X1,P10,Pocillopora,Enriched,0,1,Partially under nutrient diffuser,T3
+C4_1X1_P10,T3,C4_1X1_P10_T3,C4,1X1,P10,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P10,T6,C4_1X1_P10_T6,C4,1X1,P10,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P11,T6,C4_1X1_P11_T6,C4,1X1,P11,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P11,T9,C4_1X1_P11_T9,C4,1X1,P11,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P12,T6,C4_1X1_P12_T6,C4,1X1,P12,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P12,T9,C4_1X1_P12_T9,C4,1X1,P12,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P13,T9,C4_1X1_P13_T9,C4,1X1,P13,Pocillopora,Enriched,0,0,Under P7 or nutrient diffuser; probably dead,T6
+C4_1X1_P13,T6,C4_1X1_P13_T6,C4,1X1,P13,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P14,T6,C4_1X1_P14_T6,C4,1X1,P14,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P14,T9,C4_1X1_P14_T9,C4,1X1,P14,Pocillopora,Enriched,0,0,,T6
+C4_1X1_P15,T6,C4_1X1_P15_T6,C4,1X1,P15,Pocillopora,Enriched,1,1,Partially under nutrient diffuser,T6
+C4_1X1_P15,T9,C4_1X1_P15_T9,C4,1X1,P15,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P16,T9,C4_1X1_P16_T9,C4,1X1,P16,Pocillopora,Enriched,0,1,Montipora is growning over Poc and turbinaria!,T6
+C4_1X1_P16,T6,C4_1X1_P16_T6,C4,1X1,P16,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P17,T9,C4_1X1_P17_T9,C4,1X1,P17,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P17,T6,C4_1X1_P17_T6,C4,1X1,P17,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P18,T9,C4_1X1_P18_T9,C4,1X1,P18,Pocillopora,Enriched,0,1,Being crowded out by Acropora (A1 and A2) and Phymastrea,T6
+C4_1X1_P18,T6,C4_1X1_P18_T6,C4,1X1,P18,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P19,T9,C4_1X1_P19_T9,C4,1X1,P19,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P19,T6,C4_1X1_P19_T6,C4,1X1,P19,Pocillopora,Enriched,1,1,Half outside of cage,T6
+C4_1X1_P02,T9,C4_1X1_P2_T9,C4,1X1,P02,Pocillopora,Enriched,0,0,This coral seems to have been taken over by P3,T3
+C4_1X1_P02,T3,C4_1X1_P2_T3,C4,1X1,P02,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P02,T6,C4_1X1_P2_T6,C4,1X1,P02,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P20,T9,C4_1X1_P20_T9,C4,1X1,P20,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P20,T6,C4_1X1_P20_T6,C4,1X1,P20,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P21,T9,C4_1X1_P21_T9,C4,1X1,P21,Pocillopora,Enriched,1,0,,T9
+C4_1X1_P22,T6,C4_1X1_P22_T6,C4,1X1,P22,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P22,T9,C4_1X1_P22_T9,C4,1X1,P22,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P23,T9,C4_1X1_P23_T9,C4,1X1,P23,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P23,T6,C4_1X1_P23_T6,C4,1X1,P23,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P25,T9,C4_1X1_P25_T9,C4,1X1,P25,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P25,T6,C4_1X1_P25_T6,C4,1X1,P25,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P26A,T6,C4_1X1_P26A_T6,C4,1X1,P26A,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P26A,T9,C4_1X1_P26A_T9,C4,1X1,P26A,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P26B,T9,C4_1X1_P26B_T9,C4,1X1,P26B,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P27,T9,C4_1X1_P27_T9,C4,1X1,P27,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P28,T9,C4_1X1_P28_T9,C4,1X1,P28,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P29,T9,C4_1X1_P29_T9,C4,1X1,P29,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P03,T6,C4_1X1_P3_T6,C4,1X1,P03,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P03,T3,C4_1X1_P3_T3,C4,1X1,P03,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P03,T9,C4_1X1_P3_T9,C4,1X1,P03,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P30,T9,C4_1X1_P30_T9,C4,1X1,P30,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P31,T9,C4_1X1_P31_T9,C4,1X1,P31,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P32,T9,C4_1X1_P32_T9,C4,1X1,P32,Pocillopora,Enriched,1,1,Partially under nutrient diffuser,T9
+C4_1X1_P33,T9,C4_1X1_P33_T9,C4,1X1,P33,Pocillopora,Enriched,1,1,Not very visible in photomosaic (on edge),T9
+C4_1X1_P34,T9,C4_1X1_P34_T9,C4,1X1,P34,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P35,T9,C4_1X1_P35_T9,C4,1X1,P35,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P36,T9,C4_1X1_P36_T9,C4,1X1,P36,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P37,T9,C4_1X1_P37_T9,C4,1X1,P37,Pocillopora,Enriched,0,0,,T6
+C4_1X1_P37,T6,C4_1X1_P37_T6,C4,1X1,P37,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P38,T6,C4_1X1_P38_T6,C4,1X1,P38,Pocillopora,Enriched,1,1,,T6
+C4_1X1_P38,T9,C4_1X1_P38_T9,C4,1X1,P38,Pocillopora,Enriched,0,1,,T6
+C4_1X1_P39,T9,C4_1X1_P39_T9,C4,1X1,P39,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P04,T3,C4_1X1_P4_T3,C4,1X1,P04,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P04,T9,C4_1X1_P4_T9,C4,1X1,P04,Pocillopora,Enriched,0,0,,T3
+C4_1X1_P04,T6,C4_1X1_P4_T6,C4,1X1,P04,Pocillopora,Enriched,0,0,Presumably this coral is dead. It looked bad in T3,T3
+C4_1X1_P40,T9,C4_1X1_P40_T9,C4,1X1,P40,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P41,T9,C4_1X1_P41_T9,C4,1X1,P41,Pocillopora,Enriched,1,1,,T9
+C4_1X1_P44,T6,C4_1X1_P44_T6,C4,1X1,P44,Pocillopora,Enriched,0,1,Under diffuser but presumed to be alive since it is here in T9,T3
+C4_1X1_P44,T9,C4_1X1_P44_T9,C4,1X1,P44,Pocillopora,Enriched,0,1,Under diffuser,T3
+C4_1X1_P44,T3,C4_1X1_P44_T3,C4,1X1,P44,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P05,T9,C4_1X1_P5_T9,C4,1X1,P05,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P05,T3,C4_1X1_P5_T3,C4,1X1,P05,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P05,T6,C4_1X1_P5_T6,C4,1X1,P05,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P51,T9,C4_1X1_P51_T9,C4,1X1,P51,Pocillopora,Enriched,1,1,not on map but is here. update map!,T9
+C4_1X1_P06,T3,C4_1X1_P6_T3,C4,1X1,P06,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P06,T6,C4_1X1_P6_T6,C4,1X1,P06,Pocillopora,Enriched,0,1,"deron wrote that it was overgrown by ""mixed"" algae. i don't agree so oi changed",T3
+C4_1X1_P06,T9,C4_1X1_P6_T9,C4,1X1,P06,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P07,T3,C4_1X1_P7_T3,C4,1X1,P07,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P07,T6,C4_1X1_P7_T6,C4,1X1,P07,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P07,T9,C4_1X1_P7_T9,C4,1X1,P07,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P08,T3,C4_1X1_P8_T3,C4,1X1,P08,Pocillopora,Enriched,1,1,,T3
+C4_1X1_P08,T9,C4_1X1_P8_T9,C4,1X1,P08,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P08,T6,C4_1X1_P8_T6,C4,1X1,P08,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P09,T9,C4_1X1_P9_T9,C4,1X1,P09,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P09,T6,C4_1X1_P9_T6,C4,1X1,P09,Pocillopora,Enriched,0,1,,T3
+C4_1X1_P09,T3,C4_1X1_P9_T3,C4,1X1,P09,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P01,T6,C4_2X2_P1_T6,C4,2X2,P01,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P01,T9,C4_2X2_P1_T9,C4,2X2,P01,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P01,T3,C4_2X2_P1_T3,C4,2X2,P01,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P10,T9,C4_2X2_P10_T9,C4,2X2,P10,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P10,T3,C4_2X2_P10_T3,C4,2X2,P10,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P10,T6,C4_2X2_P10_T6,C4,2X2,P10,Pocillopora,Enriched,0,0,Presumably dead; not clear where exactly coral was. Lots of lobophora in this area,T3
+C4_2X2_P11,T9,C4_2X2_P11_T9,C4,2X2,P11,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P11,T3,C4_2X2_P11_T3,C4,2X2,P11,Pocillopora,Enriched,1,1,also lobophora,T3
+C4_2X2_P11,T6,C4_2X2_P11_T6,C4,2X2,P11,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P12,T9,C4_2X2_P12_T9,C4,2X2,P12,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P12,T3,C4_2X2_P12_T3,C4,2X2,P12,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P12,T6,C4_2X2_P12_T6,C4,2X2,P12,Pocillopora,Enriched,0,1,also halimeda,T3
+C4_2X2_P13,T3,C4_2X2_P13_T3,C4,2X2,P13,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P13,T6,C4_2X2_P13_T6,C4,2X2,P13,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P13,T9,C4_2X2_P13_T9,C4,2X2,P13,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P14A,T3,C4_2X2_P14A_T3,C4,2X2,P14A,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P14A,T6,C4_2X2_P14A_T6,C4,2X2,P14A,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P14A,T9,C4_2X2_P14A_T9,C4,2X2,P14A,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P14B,T6,C4_2X2_P14B_T6,C4,2X2,P14B,Pocillopora,Enriched,1,1,this is the P14 that we sampled for haplotypes. ,T6
+C4_2X2_P14B,T9,C4_2X2_P14B_T9,C4,2X2,P14B,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P15,T3,C4_2X2_P15_T3,C4,2X2,P15,Pocillopora,Enriched,0,0,,T0
+C4_2X2_P15,T9,C4_2X2_P15_T9,C4,2X2,P15,Pocillopora,Enriched,0,1,,T0
+C4_2X2_P15,T0,C4_2X2_P15_T0,C4,2X2,P15,Pocillopora,Enriched,1,1,0,T0
+C4_2X2_P15,T6,C4_2X2_P15_T6,C4,2X2,P15,Pocillopora,Enriched,0,0,,T0
+C4_2X2_P16,T6,C4_2X2_P16_T6,C4,2X2,P16,Pocillopora,Enriched,1,1,This coral is big. It was probably here but under halimeda at T3,T6
+C4_2X2_P16,T9,C4_2X2_P16_T9,C4,2X2,P16,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P17,T9,C4_2X2_P17_T9,C4,2X2,P17,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P17,T6,C4_2X2_P17_T6,C4,2X2,P17,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P18,T6,C4_2X2_P18_T6,C4,2X2,P18,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P18,T9,C4_2X2_P18_T9,C4,2X2,P18,Pocillopora,Enriched,0,0,,T6
+C4_2X2_P19,T6,C4_2X2_P19_T6,C4,2X2,P19,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P19,T9,C4_2X2_P19_T9,C4,2X2,P19,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P20,T6,C4_2X2_P20_T6,C4,2X2,P20,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P20,T9,C4_2X2_P20_T9,C4,2X2,P20,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P21,T9,C4_2X2_P21_T9,C4,2X2,P21,Pocillopora,Enriched,0,0,,T6
+C4_2X2_P21,T6,C4_2X2_P21_T6,C4,2X2,P21,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P22,T6,C4_2X2_P22_T6,C4,2X2,P22,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P22,T9,C4_2X2_P22_T9,C4,2X2,P22,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P23,T6,C4_2X2_P23_T6,C4,2X2,P23,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P23,T9,C4_2X2_P23_T9,C4,2X2,P23,Pocillopora,Enriched,0,0,Under diffuser,T6
+C4_2X2_P24,T6,C4_2X2_P24_T6,C4,2X2,P24,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P24,T9,C4_2X2_P24_T9,C4,2X2,P24,Pocillopora,Enriched,0,0,Seems to be dead/gone but can't really see,T6
+C4_2X2_P25,T9,C4_2X2_P25_T9,C4,2X2,P25,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P25,T6,C4_2X2_P25_T6,C4,2X2,P25,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P26,T9,C4_2X2_P26_T9,C4,2X2,P26,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P26,T6,C4_2X2_P26_T6,C4,2X2,P26,Pocillopora,Enriched,1,1,,T6
+C4_2X2_P27,T6,C4_2X2_P27_T6,C4,2X2,P27,Pocillopora,Enriched,1,1,Growing in from the side of plot,T6
+C4_2X2_P27,T9,C4_2X2_P27_T9,C4,2X2,P27,Pocillopora,Enriched,0,1,,T6
+C4_2X2_P28,T9,C4_2X2_P28_T9,C4,2X2,P28,Pocillopora,Enriched,1,1,Under nutrient diffuser,T9
+C4_2X2_P29,T9,C4_2X2_P29_T9,C4,2X2,P29,Pocillopora,Enriched,1,1,also lobophora,T9
+C4_2X2_P03,T6,C4_2X2_P3_T6,C4,2X2,P03,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P03,T9,C4_2X2_P3_T9,C4,2X2,P03,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P03,T3,C4_2X2_P3_T3,C4,2X2,P03,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P30,T9,C4_2X2_P30_T9,C4,2X2,P30,Pocillopora,Enriched,1,1,Under nutrient diffuser,T9
+C4_2X2_P33,T9,C4_2X2_P33_T9,C4,2X2,P33,Pocillopora,Enriched,1,1,,T9
+C4_2X2_P34,T9,C4_2X2_P34_T9,C4,2X2,P34,Pocillopora,Enriched,1,1,,T9
+C4_2X2_P04,T9,C4_2X2_P4_T9,C4,2X2,P04,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P04,T6,C4_2X2_P4_T6,C4,2X2,P04,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P04,T3,C4_2X2_P4_T3,C4,2X2,P04,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P05,T3,C4_2X2_P5_T3,C4,2X2,P05,Pocillopora,Enriched,1,1,Partially under nutrient diffuser,T3
+C4_2X2_P05,T9,C4_2X2_P5_T9,C4,2X2,P05,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P05,T6,C4_2X2_P5_T6,C4,2X2,P05,Pocillopora,Enriched,0,0,Under diffuser,T3
+C4_2X2_P06,T9,C4_2X2_P6_T9,C4,2X2,P06,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P06,T6,C4_2X2_P6_T6,C4,2X2,P06,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P06,T3,C4_2X2_P6_T3,C4,2X2,P06,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P07,T9,C4_2X2_P7_T9,C4,2X2,P07,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P07,T3,C4_2X2_P7_T3,C4,2X2,P07,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P07,T6,C4_2X2_P7_T6,C4,2X2,P07,Pocillopora,Enriched,0,1,,T3
+C4_2X2_P08,T6,C4_2X2_P8_T6,C4,2X2,P08,Pocillopora,Enriched,0,0,Presumably dead; not clear where exactly coral was. Lots of lobophora in this area,T3
+C4_2X2_P08,T3,C4_2X2_P8_T3,C4,2X2,P08,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P08,T9,C4_2X2_P8_T9,C4,2X2,P08,Pocillopora,Enriched,0,0,,T3
+C4_2X2_P09,T6,C4_2X2_P9_T6,C4,2X2,P09,Pocillopora,Enriched,0,0,Presumably dead; not clear where exactly coral was. Lots of lobophora in this area,T3
+C4_2X2_P09,T3,C4_2X2_P9_T3,C4,2X2,P09,Pocillopora,Enriched,1,1,,T3
+C4_2X2_P09,T9,C4_2X2_P9_T9,C4,2X2,P09,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P01,T3,C4_3X3_P1_T3,C4,3X3,P01,Pocillopora,Enriched,1,1,Under diffuser,T3
+C4_3X3_P01,T6,C4_3X3_P1_T6,C4,3X3,P01,Pocillopora,Enriched,0,1,partially under diffuser,T3
+C4_3X3_P01,T9,C4_3X3_P1_T9,C4,3X3,P01,Pocillopora,Enriched,0,1,Under diffuser,T3
+C4_3X3_P14,T3,C4_3X3_P14_T3,C4,3X3,P14,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P14,T9,C4_3X3_P14_T9,C4,3X3,P14,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P14,T6,C4_3X3_P14_T6,C4,3X3,P14,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P15,T6,C4_3X3_P15_T6,C4,3X3,P15,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P15,T3,C4_3X3_P15_T3,C4,3X3,P15,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P15,T9,C4_3X3_P15_T9,C4,3X3,P15,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P16,T3,C4_3X3_P16_T3,C4,3X3,P16,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P16,T9,C4_3X3_P16_T9,C4,3X3,P16,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P16,T6,C4_3X3_P16_T6,C4,3X3,P16,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P17,T9,C4_3X3_P17_T9,C4,3X3,P17,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P17,T6,C4_3X3_P17_T6,C4,3X3,P17,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P17,T3,C4_3X3_P17_T3,C4,3X3,P17,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P18,T6,C4_3X3_P18_T6,C4,3X3,P18,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P18,T9,C4_3X3_P18_T9,C4,3X3,P18,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P18,T3,C4_3X3_P18_T3,C4,3X3,P18,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P19,T3,C4_3X3_P19_T3,C4,3X3,P19,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P19,T6,C4_3X3_P19_T6,C4,3X3,P19,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P19,T9,C4_3X3_P19_T9,C4,3X3,P19,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P02,T6,C4_3X3_P2_T6,C4,3X3,P02,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P02,T3,C4_3X3_P2_T3,C4,3X3,P02,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P02,T9,C4_3X3_P2_T9,C4,3X3,P02,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P20,T9,C4_3X3_P20_T9,C4,3X3,P20,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P20,T3,C4_3X3_P20_T3,C4,3X3,P20,Pocillopora,Enriched,1,0,This is clearly a Poc but looks recently dead,T3
+C4_3X3_P20,T6,C4_3X3_P20_T6,C4,3X3,P20,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P21,T9,C4_3X3_P21_T9,C4,3X3,P21,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P21,T3,C4_3X3_P21_T3,C4,3X3,P21,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P21,T6,C4_3X3_P21_T6,C4,3X3,P21,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P22,T6,C4_3X3_P22_T6,C4,3X3,P22,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P22,T3,C4_3X3_P22_T3,C4,3X3,P22,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P22,T9,C4_3X3_P22_T9,C4,3X3,P22,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P23,T9,C4_3X3_P23_T9,C4,3X3,P23,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P23,T6,C4_3X3_P23_T6,C4,3X3,P23,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P23,T3,C4_3X3_P23_T3,C4,3X3,P23,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P24,T6,C4_3X3_P24_T6,C4,3X3,P24,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P24,T3,C4_3X3_P24_T3,C4,3X3,P24,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P24,T9,C4_3X3_P24_T9,C4,3X3,P24,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P25,T3,C4_3X3_P25_T3,C4,3X3,P25,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P25,T9,C4_3X3_P25_T9,C4,3X3,P25,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P25,T6,C4_3X3_P25_T6,C4,3X3,P25,Pocillopora,Enriched,0,1,Partially under diffuser,T3
+C4_3X3_P26,T6,C4_3X3_P26_T6,C4,3X3,P26,Pocillopora,Enriched,0,1,Partially under diffuser,T3
+C4_3X3_P26,T9,C4_3X3_P26_T9,C4,3X3,P26,Pocillopora,Enriched,0,1,Under diffuser,T3
+C4_3X3_P26,T3,C4_3X3_P26_T3,C4,3X3,P26,Pocillopora,Enriched,1,1,Under diffuser,T3
+C4_3X3_P27,T9,C4_3X3_P27_T9,C4,3X3,P27,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P27,T6,C4_3X3_P27_T6,C4,3X3,P27,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P27,T3,C4_3X3_P27_T3,C4,3X3,P27,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P28,T9,C4_3X3_P28_T9,C4,3X3,P28,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P28,T6,C4_3X3_P28_T6,C4,3X3,P28,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P29,T6,C4_3X3_P29_T6,C4,3X3,P29,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P29,T9,C4_3X3_P29_T9,C4,3X3,P29,Pocillopora,Enriched,0,0,,T6
+C4_3X3_P03,T9,C4_3X3_P3_T9,C4,3X3,P03,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P03,T6,C4_3X3_P3_T6,C4,3X3,P03,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P03,T3,C4_3X3_P3_T3,C4,3X3,P03,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P30,T6,C4_3X3_P30_T6,C4,3X3,P30,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P30,T9,C4_3X3_P30_T9,C4,3X3,P30,Pocillopora,Enriched,0,0,,T6
+C4_3X3_P31,T6,C4_3X3_P31_T6,C4,3X3,P31,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P31,T9,C4_3X3_P31_T9,C4,3X3,P31,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P32,T6,C4_3X3_P32_T6,C4,3X3,P32,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P32,T9,C4_3X3_P32_T9,C4,3X3,P32,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P33,T6,C4_3X3_P33_T6,C4,3X3,P33,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P33,T9,C4_3X3_P33_T9,C4,3X3,P33,Pocillopora,Enriched,0,1,Under diffuser,T6
+C4_3X3_P34,T9,C4_3X3_P34_T9,C4,3X3,P34,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P34,T6,C4_3X3_P34_T6,C4,3X3,P34,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P35,T9,C4_3X3_P35_T9,C4,3X3,P35,Pocillopora,Enriched,0,0,,T6
+C4_3X3_P35,T6,C4_3X3_P35_T6,C4,3X3,P35,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P36,T6,C4_3X3_P36_T6,C4,3X3,P36,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P36,T9,C4_3X3_P36_T9,C4,3X3,P36,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P37,T6,C4_3X3_P37_T6,C4,3X3,P37,Pocillopora,Enriched,1,1,I don't see the coral,T6
+C4_3X3_P37,T9,C4_3X3_P37_T9,C4,3X3,P37,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P38,T6,C4_3X3_P38_T6,C4,3X3,P38,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P38,T9,C4_3X3_P38_T9,C4,3X3,P38,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P39,T6,C4_3X3_P39_T6,C4,3X3,P39,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P39,T9,C4_3X3_P39_T9,C4,3X3,P39,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P04,T6,C4_3X3_P4_T6,C4,3X3,P04,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P04,T3,C4_3X3_P4_T3,C4,3X3,P04,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P04,T9,C4_3X3_P4_T9,C4,3X3,P04,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P40,T6,C4_3X3_P40_T6,C4,3X3,P40,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P40,T9,C4_3X3_P40_T9,C4,3X3,P40,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P41,T9,C4_3X3_P41_T9,C4,3X3,P41,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P42,T9,C4_3X3_P42_T9,C4,3X3,P42,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P43,T9,C4_3X3_P43_T9,C4,3X3,P43,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P44,T6,C4_3X3_P44_T6,C4,3X3,P44,Pocillopora,Enriched,1,1,,T6
+C4_3X3_P44,T9,C4_3X3_P44_T9,C4,3X3,P44,Pocillopora,Enriched,0,1,,T6
+C4_3X3_P45,T9,C4_3X3_P45_T9,C4,3X3,P45,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P46,T9,C4_3X3_P46_T9,C4,3X3,P46,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P47,T9,C4_3X3_P47_T9,C4,3X3,P47,Pocillopora,Enriched,1,1,,T9
+C4_3X3_P05,T3,C4_3X3_P5_T3,C4,3X3,P05,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P05,T9,C4_3X3_P5_T9,C4,3X3,P05,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P05,T6,C4_3X3_P5_T6,C4,3X3,P05,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P06,T6,C4_3X3_P6_T6,C4,3X3,P06,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P06,T3,C4_3X3_P6_T3,C4,3X3,P06,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P06,T9,C4_3X3_P6_T9,C4,3X3,P06,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P07,T6,C4_3X3_P7_T6,C4,3X3,P07,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P07,T9,C4_3X3_P7_T9,C4,3X3,P07,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P07,T3,C4_3X3_P7_T3,C4,3X3,P07,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P08,T9,C4_3X3_P8_T9,C4,3X3,P08,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P08,T6,C4_3X3_P8_T6,C4,3X3,P08,Pocillopora,Enriched,0,1,,T3
+C4_3X3_P08,T3,C4_3X3_P8_T3,C4,3X3,P08,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P09,T9,C4_3X3_P9_T9,C4,3X3,P09,Pocillopora,Enriched,0,0,,T3
+C4_3X3_P09,T3,C4_3X3_P9_T3,C4,3X3,P09,Pocillopora,Enriched,1,1,,T3
+C4_3X3_P09,T6,C4_3X3_P9_T6,C4,3X3,P09,Pocillopora,Enriched,0,0,,T3
+C4_open_P01,T9,C4_open_P1_T9,C4,open,P01,Pocillopora,Enriched,0,1,,T3
+C4_open_P01,T6,C4_open_P1_T6,C4,open,P01,Pocillopora,Enriched,0,1,,T3
+C4_open_P01,T3,C4_open_P1_T3,C4,open,P01,Pocillopora,Enriched,1,1,,T3
+C4_open_P10,T6,C4_open_P10_T6,C4,open,P10,Pocillopora,Enriched,1,1,,T6
+C4_open_P10,T9,C4_open_P10_T9,C4,open,P10,Pocillopora,Enriched,0,1,,T6
+C4_open_P11,T9,C4_open_P11_T9,C4,open,P11,Pocillopora,Enriched,0,1,,T6
+C4_open_P11,T6,C4_open_P11_T6,C4,open,P11,Pocillopora,Enriched,1,1,,T6
+C4_open_P12,T6,C4_open_P12_T6,C4,open,P12,Pocillopora,Enriched,1,1,,T6
+C4_open_P12,T9,C4_open_P12_T9,C4,open,P12,Pocillopora,Enriched,0,1,,T6
+C4_open_P13,T9,C4_open_P13_T9,C4,open,P13,Pocillopora,Enriched,0,1,,T6
+C4_open_P13,T6,C4_open_P13_T6,C4,open,P13,Pocillopora,Enriched,1,1,,T6
+C4_open_P14,T9,C4_open_P14_T9,C4,open,P14,Pocillopora,Enriched,0,1,,T6
+C4_open_P14,T6,C4_open_P14_T6,C4,open,P14,Pocillopora,Enriched,1,1,,T6
+C4_open_P15,T6,C4_open_P15_T6,C4,open,P15,Pocillopora,Enriched,1,1,,T6
+C4_open_P15,T9,C4_open_P15_T9,C4,open,P15,Pocillopora,Enriched,0,1,,T6
+C4_open_P16,T6,C4_open_P16_T6,C4,open,P16,Pocillopora,Enriched,1,1,,T6
+C4_open_P16,T9,C4_open_P16_T9,C4,open,P16,Pocillopora,Enriched,0,1,,T6
+C4_open_P17,T9,C4_open_P17_T9,C4,open,P17,Pocillopora,Enriched,0,1,,T6
+C4_open_P17,T6,C4_open_P17_T6,C4,open,P17,Pocillopora,Enriched,1,1,,T6
+C4_open_P18,T9,C4_open_P18_T9,C4,open,P18,Pocillopora,Enriched,0,1,,T6
+C4_open_P18,T6,C4_open_P18_T6,C4,open,P18,Pocillopora,Enriched,1,1,,T6
+C4_open_P19,T9,C4_open_P19_T9,C4,open,P19,Pocillopora,Enriched,0,1,,T6
+C4_open_P19,T6,C4_open_P19_T6,C4,open,P19,Pocillopora,Enriched,1,1,,T6
+C4_open_P02,T9,C4_open_P2_T9,C4,open,P02,Pocillopora,Enriched,0,1,,T3
+C4_open_P02,T6,C4_open_P2_T6,C4,open,P02,Pocillopora,Enriched,0,1,,T3
+C4_open_P02,T3,C4_open_P2_T3,C4,open,P02,Pocillopora,Enriched,1,1,,T3
+C4_open_P20,T9,C4_open_P20_T9,C4,open,P20,Pocillopora,Enriched,0,0,On edge--could be out of photomosaic,T6
+C4_open_P20,T6,C4_open_P20_T6,C4,open,P20,Pocillopora,Enriched,1,1,,T6
+C4_open_P21,T9,C4_open_P21_T9,C4,open,P21,Pocillopora,Enriched,1,1,growing in from side of plot,T9
+C4_open_P22,T9,C4_open_P22_T9,C4,open,P22,Pocillopora,Enriched,1,1,,T9
+C4_open_P23,T6,C4_open_P23_T6,C4,open,P23,Pocillopora,Enriched,1,1,,T6
+C4_open_P23,T9,C4_open_P23_T9,C4,open,P23,Pocillopora,Enriched,0,1,,T6
+C4_open_P24,T9,C4_open_P24_T9,C4,open,P24,Pocillopora,Enriched,1,1,,T9
+C4_open_P26,T9,C4_open_P26_T9,C4,open,P26,Pocillopora,Enriched,1,1,,T9
+C4_open_P27,T9,C4_open_P27_T9,C4,open,P27,Pocillopora,Enriched,0,1,,T6
+C4_open_P27,T6,C4_open_P27_T6,C4,open,P27,Pocillopora,Enriched,1,1,,T6
+C4_open_P28,T9,C4_open_P28_T9,C4,open,P28,Pocillopora,Enriched,1,1,,T9
+C4_open_P29,T9,C4_open_P29_T9,C4,open,P29,Pocillopora,Enriched,0,1,,T6
+C4_open_P29,T6,C4_open_P29_T6,C4,open,P29,Pocillopora,Enriched,1,1,,T6
+C4_open_P03,T3,C4_open_P3_T3,C4,open,P03,Pocillopora,Enriched,1,1,,T3
+C4_open_P03,T9,C4_open_P3_T9,C4,open,P03,Pocillopora,Enriched,0,1,Under diffuser,T3
+C4_open_P03,T6,C4_open_P3_T6,C4,open,P03,Pocillopora,Enriched,0,1,,T3
+C4_open_P30,T9,C4_open_P30_T9,C4,open,P30,Pocillopora,Enriched,1,1,,T9
+C4_open_P31,T9,C4_open_P31_T9,C4,open,P31,Pocillopora,Enriched,1,1,growing in from side of plot,T9
+C4_open_P32,T9,C4_open_P32_T9,C4,open,P32,Pocillopora,Enriched,1,1,,T9
+C4_open_P33,T9,C4_open_P33_T9,C4,open,P33,Pocillopora,Enriched,1,1,,T9
+C4_open_P34,T9,C4_open_P34_T9,C4,open,P34,Pocillopora,Enriched,1,1,,T9
+C4_open_P04,T6,C4_open_P4_T6,C4,open,P04,Pocillopora,Enriched,0,1,,T3
+C4_open_P04,T3,C4_open_P4_T3,C4,open,P04,Pocillopora,Enriched,1,1,,T3
+C4_open_P04,T9,C4_open_P4_T9,C4,open,P04,Pocillopora,Enriched,0,1,,T3
+C4_open_P05,T9,C4_open_P5_T9,C4,open,P05,Pocillopora,Enriched,0,1,,T3
+C4_open_P05,T3,C4_open_P5_T3,C4,open,P05,Pocillopora,Enriched,1,1,,T3
+C4_open_P05,T6,C4_open_P5_T6,C4,open,P05,Pocillopora,Enriched,0,1,,T3
+C4_open_P06,T3,C4_open_P6_T3,C4,open,P06,Pocillopora,Enriched,1,1,,T3
+C4_open_P06,T9,C4_open_P6_T9,C4,open,P06,Pocillopora,Enriched,0,0,,T3
+C4_open_P06,T6,C4_open_P6_T6,C4,open,P06,Pocillopora,Enriched,0,0,,T3
+C4_open_P07,T9,C4_open_P7_T9,C4,open,P07,Pocillopora,Enriched,0,0,,T3
+C4_open_P07,T6,C4_open_P7_T6,C4,open,P07,Pocillopora,Enriched,0,0,,T3
+C4_open_P07,T3,C4_open_P7_T3,C4,open,P07,Pocillopora,Enriched,1,1,,T3
+C4_open_P08,T6,C4_open_P8_T6,C4,open,P08,Pocillopora,Enriched,1,1,,T6
+C4_open_P08,T9,C4_open_P8_T9,C4,open,P08,Pocillopora,Enriched,0,0,,T6
+C4_open_P09,T9,C4_open_P9_T9,C4,open,P09,Pocillopora,Enriched,0,1,,T6
+C4_open_P09,T6,C4_open_P9_T6,C4,open,P09,Pocillopora,Enriched,1,1,,T6
+D1_1X1_P01,T3,D1_1X1_P1_T3,D1,1X1,P01,Pocillopora,Ambient,1,1,,T3
+D1_1X1_P01,T9,D1_1X1_P1_T9,D1,1X1,P01,Pocillopora,Ambient,0,0,,T3
+D1_1X1_P01,T6,D1_1X1_P1_T6,D1,1X1,P01,Pocillopora,Ambient,0,0,,T3
+D1_1X1_P02,T6,D1_1X1_P2_T6,D1,1X1,P02,Pocillopora,Ambient,0,1,,T0
+D1_1X1_P02,T0,D1_1X1_P2_T0,D1,1X1,P02,Pocillopora,Ambient,1,1,0,T0
+D1_1X1_P02,T9,D1_1X1_P2_T9,D1,1X1,P02,Pocillopora,Ambient,0,1,,T0
+D1_1X1_P02,T3,D1_1X1_P2_T3,D1,1X1,P02,Pocillopora,Ambient,0,1,,T0
+D1_1X1_P03,T9,D1_1X1_P3_T9,D1,1X1,P03,Pocillopora,Ambient,0,1,,T3
+D1_1X1_P03,T6,D1_1X1_P3_T6,D1,1X1,P03,Pocillopora,Ambient,0,1,,T3
+D1_1X1_P03,T3,D1_1X1_P3_T3,D1,1X1,P03,Pocillopora,Ambient,1,1,,T3
+D1_1X1_P04,T3,D1_1X1_P4_T3,D1,1X1,P04,Pocillopora,Ambient,1,1,,T3
+D1_1X1_P04,T6,D1_1X1_P4_T6,D1,1X1,P04,Pocillopora,Ambient,0,1,,T3
+D1_1X1_P04,T9,D1_1X1_P4_T9,D1,1X1,P04,Pocillopora,Ambient,0,1,,T3
+D1_1X1_P05,T6,D1_1X1_P5_T6,D1,1X1,P05,Pocillopora,Ambient,1,1,,T6
+D1_1X1_P05,T9,D1_1X1_P5_T9,D1,1X1,P05,Pocillopora,Ambient,0,1,,T6
+D1_1X1_P06,T6,D1_1X1_P6_T6,D1,1X1,P06,Pocillopora,Ambient,1,1,,T6
+D1_1X1_P06,T9,D1_1X1_P6_T9,D1,1X1,P06,Pocillopora,Ambient,0,1,,T6
+D1_1X1_P07,T9,D1_1X1_P7_T9,D1,1X1,P07,Pocillopora,Ambient,1,1,,T9
+D1_1X1_P08,T9,D1_1X1_P8_T9,D1,1X1,P08,Pocillopora,Ambient,1,1,,T9
+D1_1X1_P09,T9,D1_1X1_P9_T9,D1,1X1,P09,Pocillopora,Ambient,0,0,,T6
+D1_1X1_P09,T6,D1_1X1_P9_T6,D1,1X1,P09,Pocillopora,Ambient,1,1,,T6
+D1_2X2_P01,T9,D1_2X2_P1_T9,D1,2X2,P01,Pocillopora,Ambient,0,1,,T0
+D1_2X2_P01,T0,D1_2X2_P1_T0,D1,2X2,P01,Pocillopora,Ambient,1,1,0,T0
+D1_2X2_P01,T3,D1_2X2_P1_T3,D1,2X2,P01,Pocillopora,Ambient,0,1,,T0
+D1_2X2_P01,T6,D1_2X2_P1_T6,D1,2X2,P01,Pocillopora,Ambient,0,1,,T0
+D1_2X2_P10,T9,D1_2X2_P10_T9,D1,2X2,P10,Pocillopora,Ambient,1,1,,T9
+D1_2X2_P02,T6,D1_2X2_P2_T6,D1,2X2,P02,Pocillopora,Ambient,0,0,,T3
+D1_2X2_P02,T9,D1_2X2_P2_T9,D1,2X2,P02,Pocillopora,Ambient,0,0,,T3
+D1_2X2_P02,T3,D1_2X2_P2_T3,D1,2X2,P02,Pocillopora,Ambient,1,1,,T3
+D1_2X2_P03,T9,D1_2X2_P3_T9,D1,2X2,P03,Pocillopora,Ambient,0,1,,T3
+D1_2X2_P03,T6,D1_2X2_P3_T6,D1,2X2,P03,Pocillopora,Ambient,0,1,,T3
+D1_2X2_P03,T3,D1_2X2_P3_T3,D1,2X2,P03,Pocillopora,Ambient,1,1,,T3
+D1_2X2_P04,T3,D1_2X2_P4_T3,D1,2X2,P04,Pocillopora,Ambient,1,1,,T3
+D1_2X2_P04,T9,D1_2X2_P4_T9,D1,2X2,P04,Pocillopora,Ambient,0,0,"P4 circled but I don't think this is a Poc or the same coral, it looked pretty dead in T6",T3
+D1_2X2_P04,T6,D1_2X2_P4_T6,D1,2X2,P04,Pocillopora,Ambient,0,0,,T3
+D1_2X2_P05,T3,D1_2X2_P5_T3,D1,2X2,P05,Pocillopora,Ambient,1,1,,T3
+D1_2X2_P05,T6,D1_2X2_P5_T6,D1,2X2,P05,Pocillopora,Ambient,0,1,,T3
+D1_2X2_P05,T9,D1_2X2_P5_T9,D1,2X2,P05,Pocillopora,Ambient,0,0,,T3
+D1_2X2_P06,T9,D1_2X2_P6_T9,D1,2X2,P06,Pocillopora,Ambient,0,1,,T3
+D1_2X2_P06,T6,D1_2X2_P6_T6,D1,2X2,P06,Pocillopora,Ambient,0,1,,T3
+D1_2X2_P06,T3,D1_2X2_P6_T3,D1,2X2,P06,Pocillopora,Ambient,1,1,,T3
+D1_2X2_P07,T9,D1_2X2_P7_T9,D1,2X2,P07,Pocillopora,Ambient,1,1,,T9
+D1_2X2_P08,T9,D1_2X2_P8_T9,D1,2X2,P08,Pocillopora,Ambient,1,1,,T9
+D1_2X2_P09,T9,D1_2X2_P9_T9,D1,2X2,P09,Pocillopora,Ambient,1,1,,T9
+D1_3X3_P01,T0,D1_3X3_P1_T0,D1,3X3,P01,Pocillopora,Ambient,1,1,0,T0
+D1_3X3_P01,T6,D1_3X3_P1_T6,D1,3X3,P01,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P01,T9,D1_3X3_P1_T9,D1,3X3,P01,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P01,T3,D1_3X3_P1_T3,D1,3X3,P01,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P10,T3,D1_3X3_P10_T3,D1,3X3,P10,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P10,T6,D1_3X3_P10_T6,D1,3X3,P10,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P10,T9,D1_3X3_P10_T9,D1,3X3,P10,Pocillopora,Ambient,0,0,,T3
+D1_3X3_P11,T9,D1_3X3_P11_T9,D1,3X3,P11,Pocillopora,Ambient,0,1,,T6
+D1_3X3_P11,T6,D1_3X3_P11_T6,D1,3X3,P11,Pocillopora,Ambient,1,1,,T6
+D1_3X3_P12,T6,D1_3X3_P12_T6,D1,3X3,P12,Pocillopora,Ambient,0,1,,T9
+D1_3X3_P12,T3,D1_3X3_P12_T3,D1,3X3,P12,Pocillopora,Ambient,0,1,,T9
+D1_3X3_P12,T9,D1_3X3_P12_T9,D1,3X3,P12,Pocillopora,Ambient,1,1,Is next to A6 and attached to loose rubble that's rolling around,T9
+D1_3X3_P13,T9,D1_3X3_P13_T9,D1,3X3,P13,Pocillopora,Ambient,0,1,,T6
+D1_3X3_P13,T6,D1_3X3_P13_T6,D1,3X3,P13,Pocillopora,Ambient,1,1,,T6
+D1_3X3_P03,T3,D1_3X3_P3_T3,D1,3X3,P03,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P03,T9,D1_3X3_P3_T9,D1,3X3,P03,Pocillopora,Ambient,0,0,,T3
+D1_3X3_P03,T6,D1_3X3_P3_T6,D1,3X3,P03,Pocillopora,Ambient,0,0,,T3
+D1_3X3_P04,T3,D1_3X3_P4_T3,D1,3X3,P04,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P04,T6,D1_3X3_P4_T6,D1,3X3,P04,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P04,T9,D1_3X3_P4_T9,D1,3X3,P04,Pocillopora,Ambient,0,1,,T0
+D1_3X3_P04,T0,D1_3X3_P4_T0,D1,3X3,P04,Pocillopora,Ambient,1,1,0,T0
+D1_3X3_P06,T3,D1_3X3_P6_T3,D1,3X3,P06,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P07,T3,D1_3X3_P7_T3,D1,3X3,P07,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P07,T9,D1_3X3_P7_T9,D1,3X3,P07,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P07,T6,D1_3X3_P7_T6,D1,3X3,P07,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P08,T9,D1_3X3_P8_T9,D1,3X3,P08,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P08,T6,D1_3X3_P8_T6,D1,3X3,P08,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P08,T3,D1_3X3_P8_T3,D1,3X3,P08,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P09,T9,D1_3X3_P9_T9,D1,3X3,P09,Pocillopora,Ambient,0,1,,T3
+D1_3X3_P09,T3,D1_3X3_P9_T3,D1,3X3,P09,Pocillopora,Ambient,1,1,,T3
+D1_3X3_P09,T6,D1_3X3_P9_T6,D1,3X3,P09,Pocillopora,Ambient,0,1,,T3
+D1_open_P01,T9,D1_open_P1_T9,D1,open,P01,Pocillopora,Ambient,0,0,,T3
+D1_open_P01,T6,D1_open_P1_T6,D1,open,P01,Pocillopora,Ambient,0,1,,T3
+D1_open_P01,T3,D1_open_P1_T3,D1,open,P01,Pocillopora,Ambient,1,1,,T3
+D1_open_P10,T9,D1_open_P10_T9,D1,open,P10,Pocillopora,Ambient,1,1,,T9
+D1_open_P11,T9,D1_open_P11_T9,D1,open,P11,Pocillopora,Ambient,1,1,,T9
+D1_open_P12,T9,D1_open_P12_T9,D1,open,P12,Pocillopora,Ambient,1,1,,T9
+D1_open_P13,T9,D1_open_P13_T9,D1,open,P13,Pocillopora,Ambient,1,1,,T9
+D1_open_P02,T9,D1_open_P2_T9,D1,open,P02,Pocillopora,Ambient,0,0,,T0
+D1_open_P02,T3,D1_open_P2_T3,D1,open,P02,Pocillopora,Ambient,0,0,,T0
+D1_open_P02,T0,D1_open_P2_T0,D1,open,P02,Pocillopora,Ambient,1,1,0,T0
+D1_open_P02,T6,D1_open_P2_T6,D1,open,P02,Pocillopora,Ambient,0,0,,T0
+D1_open_P03,T0,D1_open_P3_T0,D1,open,P03,Pocillopora,Ambient,1,1,0,T0
+D1_open_P03,T9,D1_open_P3_T9,D1,open,P03,Pocillopora,Ambient,0,0,,T0
+D1_open_P03,T3,D1_open_P3_T3,D1,open,P03,Pocillopora,Ambient,0,0,,T0
+D1_open_P03,T6,D1_open_P3_T6,D1,open,P03,Pocillopora,Ambient,0,0,,T0
+D1_open_P04,T3,D1_open_P4_T3,D1,open,P04,Pocillopora,Ambient,1,1,,T3
+D1_open_P04,T9,D1_open_P4_T9,D1,open,P04,Pocillopora,Ambient,0,1,,T3
+D1_open_P04,T6,D1_open_P4_T6,D1,open,P04,Pocillopora,Ambient,0,1,,T3
+D1_open_P05,T3,D1_open_P5_T3,D1,open,P05,Pocillopora,Ambient,1,1,,T3
+D1_open_P05,T9,D1_open_P5_T9,D1,open,P05,Pocillopora,Ambient,0,0,,T3
+D1_open_P05,T6,D1_open_P5_T6,D1,open,P05,Pocillopora,Ambient,0,1,,T3
+D1_open_P06,T9,D1_open_P6_T9,D1,open,P06,Pocillopora,Ambient,0,1,,T6
+D1_open_P06,T6,D1_open_P6_T6,D1,open,P06,Pocillopora,Ambient,1,1,,T6
+D1_open_P07,T9,D1_open_P7_T9,D1,open,P07,Pocillopora,Ambient,0,1,,T3
+D1_open_P07,T6,D1_open_P7_T6,D1,open,P07,Pocillopora,Ambient,0,1,,T3
+D1_open_P07,T3,D1_open_P7_T3,D1,open,P07,Pocillopora,Ambient,1,1,,T3
+D1_open_P08,T9,D1_open_P8_T9,D1,open,P08,Pocillopora,Ambient,0,1,"Right on edge of the image, possibly was here previously",T6
+D1_open_P08,T6,D1_open_P8_T6,D1,open,P08,Pocillopora,Ambient,1,1,"Right on edge of the image, possibly was here previously",T6
+D1_open_P09,T9,D1_open_P9_T9,D1,open,P09,Pocillopora,Ambient,1,1,"Likely not attached, showed up very large",T9
+D3_1X1_P10,T9,D3_1X1_P10_T9,D3,1X1,P10,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P10,T6,D3_1X1_P10_T6,D3,1X1,P10,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P10,T3,D3_1X1_P10_T3,D3,1X1,P10,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P11,T9,D3_1X1_P11_T9,D3,1X1,P11,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P11,T6,D3_1X1_P11_T6,D3,1X1,P11,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P11,T3,D3_1X1_P11_T3,D3,1X1,P11,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P12,T9,D3_1X1_P12_T9,D3,1X1,P12,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P12,T6,D3_1X1_P12_T6,D3,1X1,P12,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P12,T3,D3_1X1_P12_T3,D3,1X1,P12,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P13,T9,D3_1X1_P13_T9,D3,1X1,P13,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P13,T6,D3_1X1_P13_T6,D3,1X1,P13,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P13,T3,D3_1X1_P13_T3,D3,1X1,P13,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P14,T6,D3_1X1_P14_T6,D3,1X1,P14,Pocillopora,Enriched,1,1,,T6
+D3_1X1_P14,T9,D3_1X1_P14_T9,D3,1X1,P14,Pocillopora,Enriched,0,0,,T6
+D3_1X1_P15,T9,D3_1X1_P15_T9,D3,1X1,P15,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P15,T6,D3_1X1_P15_T6,D3,1X1,P15,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P15,T3,D3_1X1_P15_T3,D3,1X1,P15,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P17,T9,D3_1X1_P17_T9,D3,1X1,P17,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P17,T6,D3_1X1_P17_T6,D3,1X1,P17,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P17,T3,D3_1X1_P17_T3,D3,1X1,P17,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P18,T9,D3_1X1_P18_T9,D3,1X1,P18,Pocillopora,Enriched,0,1,,T6
+D3_1X1_P18,T6,D3_1X1_P18_T6,D3,1X1,P18,Pocillopora,Enriched,1,1,,T6
+D3_1X1_P19,T6,D3_1X1_P19_T6,D3,1X1,P19,Pocillopora,Enriched,1,1,,T6
+D3_1X1_P19,T6,D3_1X1_P19_T6,D3,1X1,P19,Pocillopora,Enriched,0,1,,T6
+D3_1X1_P02,T9,D3_1X1_P2_T9,D3,1X1,P02,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P02,T6,D3_1X1_P2_T6,D3,1X1,P02,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P02,T3,D3_1X1_P2_T3,D3,1X1,P02,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P20,T9,D3_1X1_P20_T9,D3,1X1,P20,Pocillopora,Enriched,0,1,,T6
+D3_1X1_P20,T6,D3_1X1_P20_T6,D3,1X1,P20,Pocillopora,Enriched,1,1,,T6
+D3_1X1_P21,T9,D3_1X1_P21_T9,D3,1X1,P21,Pocillopora,Enriched,1,1,,T9
+D3_1X1_P22A,T9,D3_1X1_P22A_T9,D3,1X1,P22A,Pocillopora,Enriched,1,1,,T9
+D3_1X1_P22B,T9,D3_1X1_P22B_T9,D3,1X1,P22B,Pocillopora,Enriched,1,1,probably recruited previously and was underneath diffuser,T9
+D3_1X1_P03,T9,D3_1X1_P3_T9,D3,1X1,P03,Pocillopora,Enriched,0,0,,T3
+D3_1X1_P03,T6,D3_1X1_P3_T6,D3,1X1,P03,Pocillopora,Enriched,0,0,,T3
+D3_1X1_P03,T3,D3_1X1_P3_T3,D3,1X1,P03,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P04,T9,D3_1X1_P4_T9,D3,1X1,P04,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P04,T3,D3_1X1_P4_T3,D3,1X1,P04,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P04,T6,D3_1X1_P4_T6,D3,1X1,P04,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P05,T6,D3_1X1_P5_T6,D3,1X1,P05,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P05,T9,D3_1X1_P5_T9,D3,1X1,P05,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P05,T3,D3_1X1_P5_T3,D3,1X1,P05,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P06,T3,D3_1X1_P6_T3,D3,1X1,P06,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P06,T6,D3_1X1_P6_T6,D3,1X1,P06,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P06,T9,D3_1X1_P6_T9,D3,1X1,P06,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P07,T3,D3_1X1_P7_T3,D3,1X1,P07,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P07,T9,D3_1X1_P7_T9,D3,1X1,P07,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P07,T6,D3_1X1_P7_T6,D3,1X1,P07,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P08,T9,D3_1X1_P8_T9,D3,1X1,P08,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P08,T6,D3_1X1_P8_T6,D3,1X1,P08,Pocillopora,Enriched,0,1,,T3
+D3_1X1_P08,T3,D3_1X1_P8_T3,D3,1X1,P08,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P09,T3,D3_1X1_P9_T3,D3,1X1,P09,Pocillopora,Enriched,1,1,,T3
+D3_1X1_P09,T9,D3_1X1_P9_T9,D3,1X1,P09,Pocillopora,Enriched,0,0,,T3
+D3_1X1_P09,T6,D3_1X1_P9_T6,D3,1X1,P09,Pocillopora,Enriched,0,0,,T3
+D3_2X2_P01,T6,D3_2X2_P1_T6,D3,2X2,P01,Pocillopora,Enriched,0,1,,T0
+D3_2X2_P01,T9,D3_2X2_P1_T9,D3,2X2,P01,Pocillopora,Enriched,0,1,,T0
+D3_2X2_P01,T3,D3_2X2_P1_T3,D3,2X2,P01,Pocillopora,Enriched,0,1,,T0
+D3_2X2_P01,T0,D3_2X2_P1_T0,D3,2X2,P01,Pocillopora,Enriched,1,1,0,T0
+D3_2X2_P02,T9,D3_2X2_P2_T9,D3,2X2,P02,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P02,T6,D3_2X2_P2_T6,D3,2X2,P02,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P02,T3,D3_2X2_P2_T3,D3,2X2,P02,Pocillopora,Enriched,1,1,,T3
+D3_2X2_P03,T3,D3_2X2_P3_T3,D3,2X2,P03,Pocillopora,Enriched,1,1,,T3
+D3_2X2_P03,T6,D3_2X2_P3_T6,D3,2X2,P03,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P03,T9,D3_2X2_P3_T9,D3,2X2,P03,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P04,T3,D3_2X2_P4_T3,D3,2X2,P04,Pocillopora,Enriched,1,1,,T3
+D3_2X2_P04,T6,D3_2X2_P4_T6,D3,2X2,P04,Pocillopora,Enriched,0,1,also caulerpa and halimeda,T3
+D3_2X2_P04,T9,D3_2X2_P4_T9,D3,2X2,P04,Pocillopora,Enriched,0,1,"can't see in photo, but can see at T10",T3
+D3_2X2_P05,T9,D3_2X2_P5_T9,D3,2X2,P05,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P05,T3,D3_2X2_P5_T3,D3,2X2,P05,Pocillopora,Enriched,1,1,,T3
+D3_2X2_P05,T6,D3_2X2_P5_T6,D3,2X2,P05,Pocillopora,Enriched,0,1,,T3
+D3_2X2_P06,T9,D3_2X2_P6_T9,D3,2X2,P06,Pocillopora,Enriched,0,1,,T6
+D3_2X2_P06,T6,D3_2X2_P6_T6,D3,2X2,P06,Pocillopora,Enriched,1,1,,T6
+D3_2X2_P07,T9,D3_2X2_P7_T9,D3,2X2,P07,Pocillopora,Enriched,1,1,"Looks rather large for a recruit, possibly is growing through exclosure mesh, which is what it looks like",T9
+D3_3X3_P01,T9,D3_3X3_P1_T9,D3,3X3,P01,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P01,T3,D3_3X3_P1_T3,D3,3X3,P01,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P01,T6,D3_3X3_P1_T6,D3,3X3,P01,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P10,T9,D3_3X3_P10_T9,D3,3X3,P10,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P10,T3,D3_3X3_P10_T3,D3,3X3,P10,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P10,T6,D3_3X3_P10_T6,D3,3X3,P10,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P11,T9,D3_3X3_P11_T9,D3,3X3,P11,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P11,T6,D3_3X3_P11_T6,D3,3X3,P11,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P11,T3,D3_3X3_P11_T3,D3,3X3,P11,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P12,T6,D3_3X3_P12_T6,D3,3X3,P12,Pocillopora,Enriched,1,1,,T6
+D3_3X3_P12,T9,D3_3X3_P12_T9,D3,3X3,P12,Pocillopora,Enriched,0,1,,T6
+D3_3X3_P13,T9,D3_3X3_P13_T9,D3,3X3,P13,Pocillopora,Enriched,0,1,,T6
+D3_3X3_P13,T6,D3_3X3_P13_T6,D3,3X3,P13,Pocillopora,Enriched,1,1,,T6
+D3_3X3_P14A,T9,D3_3X3_P14A_T9,D3,3X3,P14A,Pocillopora,Enriched,0,0,,T3
+D3_3X3_P14A,T6,D3_3X3_P14A_T6,D3,3X3,P14A,Pocillopora,Enriched,0,0,,T3
+D3_3X3_P14A,T3,D3_3X3_P14A_T3,D3,3X3,P14A,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P14B,T9,D3_3X3_P14B_T9,D3,3X3,P14B,Pocillopora,Enriched,1,1,,T9
+D3_3X3_P15,T9,D3_3X3_P15_T9,D3,3X3,P15,Pocillopora,Enriched,1,1,,T9
+D3_3X3_P16,T9,D3_3X3_P16_T9,D3,3X3,P16,Pocillopora,Enriched,1,1,,T9
+D3_3X3_P02,T3,D3_3X3_P2_T3,D3,3X3,P02,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P02,T6,D3_3X3_P2_T6,D3,3X3,P02,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P02,T9,D3_3X3_P2_T9,D3,3X3,P02,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P03,T3,D3_3X3_P3_T3,D3,3X3,P03,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P03,T6,D3_3X3_P3_T6,D3,3X3,P03,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P03,T9,D3_3X3_P3_T9,D3,3X3,P03,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P04,T6,D3_3X3_P4_T6,D3,3X3,P04,Pocillopora,Enriched,0,0,,T3
+D3_3X3_P04,T9,D3_3X3_P4_T9,D3,3X3,P04,Pocillopora,Enriched,0,0,,T3
+D3_3X3_P04,T3,D3_3X3_P4_T3,D3,3X3,P04,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P05,T3,D3_3X3_P5_T3,D3,3X3,P05,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P05,T6,D3_3X3_P5_T6,D3,3X3,P05,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P05,T9,D3_3X3_P5_T9,D3,3X3,P05,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P06,T6,D3_3X3_P6_T6,D3,3X3,P06,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P06,T9,D3_3X3_P6_T9,D3,3X3,P06,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P06,T3,D3_3X3_P6_T3,D3,3X3,P06,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P07,T3,D3_3X3_P7_T3,D3,3X3,P07,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P07,T9,D3_3X3_P7_T9,D3,3X3,P07,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P07,T6,D3_3X3_P7_T6,D3,3X3,P07,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P08,T9,D3_3X3_P8_T9,D3,3X3,P08,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P08,T3,D3_3X3_P8_T3,D3,3X3,P08,Pocillopora,Enriched,1,1,,T3
+D3_3X3_P08,T6,D3_3X3_P8_T6,D3,3X3,P08,Pocillopora,Enriched,0,1,,T3
+D3_3X3_P09,T6,D3_3X3_P9_T6,D3,3X3,P09,Pocillopora,Enriched,1,1,,T6
+D3_3X3_P09,T9,D3_3X3_P9_T9,D3,3X3,P09,Pocillopora,Enriched,0,1,,T6
+D3_open_P01,T6,D3_open_P1_T6,D3,open,P01,Pocillopora,Enriched,0,0,,T3
+D3_open_P01,T9,D3_open_P1_T9,D3,open,P01,Pocillopora,Enriched,0,0,,T3
+D3_open_P01,T3,D3_open_P1_T3,D3,open,P01,Pocillopora,Enriched,1,1,,T3
+D3_open_P10,T3,D3_open_P10_T3,D3,open,P10,Pocillopora,Enriched,1,1,,T3
+D3_open_P10,T6,D3_open_P10_T6,D3,open,P10,Pocillopora,Enriched,0,1,,T3
+D3_open_P10,T9,D3_open_P10_T9,D3,open,P10,Pocillopora,Enriched,0,1,,T3
+D3_open_P11,T6,D3_open_P11_T6,D3,open,P11,Pocillopora,Enriched,0,0,,T0
+D3_open_P11,T0,D3_open_P11_T0,D3,open,P11,Pocillopora,Enriched,1,1,0,T0
+D3_open_P11,T3,D3_open_P11_T3,D3,open,P11,Pocillopora,Enriched,0,0,,T0
+D3_open_P11,T9,D3_open_P11_T9,D3,open,P11,Pocillopora,Enriched,0,0,,T0
+D3_open_P12,T0,D3_open_P12_T0,D3,open,P12,Pocillopora,Enriched,1,1,0,T0
+D3_open_P12,T3,D3_open_P12_T3,D3,open,P12,Pocillopora,Enriched,0,0,,T0
+D3_open_P12,T9,D3_open_P12_T9,D3,open,P12,Pocillopora,Enriched,0,0,,T0
+D3_open_P12,T6,D3_open_P12_T6,D3,open,P12,Pocillopora,Enriched,0,0,,T0
+D3_open_P13,T6,D3_open_P13_T6,D3,open,P13,Pocillopora,Enriched,1,1,,T6
+D3_open_P13,T9,D3_open_P13_T9,D3,open,P13,Pocillopora,Enriched,0,0,Looks like it was killed by Montirpora,T6
+D3_open_P14,T3,D3_open_P14_T3,D3,open,P14,Pocillopora,Enriched,1,1,,T3
+D3_open_P14,T9,D3_open_P14_T9,D3,open,P14,Pocillopora,Enriched,0,1,,T3
+D3_open_P14,T6,D3_open_P14_T6,D3,open,P14,Pocillopora,Enriched,0,1,,T3
+D3_open_P15,T3,D3_open_P15_T3,D3,open,P15,Pocillopora,Enriched,1,1,,T3
+D3_open_P15,T6,D3_open_P15_T6,D3,open,P15,Pocillopora,Enriched,0,1,Under piece of cage mesh,T3
+D3_open_P15,T9,D3_open_P15_T9,D3,open,P15,Pocillopora,Enriched,0,1,Under piece of cage mesh,T3
+D3_open_P16,T3,D3_open_P16_T3,D3,open,P16,Pocillopora,Enriched,1,1,,T3
+D3_open_P16,T6,D3_open_P16_T6,D3,open,P16,Pocillopora,Enriched,0,1,,T3
+D3_open_P16,T9,D3_open_P16_T9,D3,open,P16,Pocillopora,Enriched,0,0,,T3
+D3_open_P17,T6,D3_open_P17_T6,D3,open,P17,Pocillopora,Enriched,0,1,,T3
+D3_open_P17,T9,D3_open_P17_T9,D3,open,P17,Pocillopora,Enriched,0,0,,T3
+D3_open_P17,T3,D3_open_P17_T3,D3,open,P17,Pocillopora,Enriched,1,1,,T3
+D3_open_P18,T6,D3_open_P18_T6,D3,open,P18,Pocillopora,Enriched,1,1,,T6
+D3_open_P18,T9,D3_open_P18_T9,D3,open,P18,Pocillopora,Enriched,0,0,,T6
+D3_open_P19,T6,D3_open_P19_T6,D3,open,P19,Pocillopora,Enriched,0,1,,T3
+D3_open_P19,T3,D3_open_P19_T3,D3,open,P19,Pocillopora,Enriched,1,1,,T3
+D3_open_P19,T9,D3_open_P19_T9,D3,open,P19,Pocillopora,Enriched,0,1,,T3
+D3_open_P02,T3,D3_open_P2_T3,D3,open,P02,Pocillopora,Enriched,1,1,,T3
+D3_open_P02,T9,D3_open_P2_T9,D3,open,P02,Pocillopora,Enriched,0,1,,T3
+D3_open_P02,T6,D3_open_P2_T6,D3,open,P02,Pocillopora,Enriched,0,1,,T3
+D3_open_P20,T6,D3_open_P20_T6,D3,open,P20,Pocillopora,Enriched,1,1,,T6
+D3_open_P20,T9,D3_open_P20_T9,D3,open,P20,Pocillopora,Enriched,0,0,,T6
+D3_open_P21,T9,D3_open_P21_T9,D3,open,P21,Pocillopora,Enriched,0,0,,T6
+D3_open_P21,T6,D3_open_P21_T6,D3,open,P21,Pocillopora,Enriched,1,1,,T6
+D3_open_P22,T3,D3_open_P22_T3,D3,open,P22,Pocillopora,Enriched,1,1,,T3
+D3_open_P22,T6,D3_open_P22_T6,D3,open,P22,Pocillopora,Enriched,0,1,,T3
+D3_open_P22,T9,D3_open_P22_T9,D3,open,P22,Pocillopora,Enriched,0,1,,T3
+D3_open_P23,T3,D3_open_P23_T3,D3,open,P23,Pocillopora,Enriched,1,1,,T3
+D3_open_P23,T6,D3_open_P23_T6,D3,open,P23,Pocillopora,Enriched,0,1,,T3
+D3_open_P23,T9,D3_open_P23_T9,D3,open,P23,Pocillopora,Enriched,0,1,,T3
+D3_open_P24,T6,D3_open_P24_T6,D3,open,P24,Pocillopora,Enriched,0,1,,T3
+D3_open_P24,T9,D3_open_P24_T9,D3,open,P24,Pocillopora,Enriched,0,1,,T3
+D3_open_P24,T3,D3_open_P24_T3,D3,open,P24,Pocillopora,Enriched,1,1,,T3
+D3_open_P25,T3,D3_open_P25_T3,D3,open,P25,Pocillopora,Enriched,1,1,,T3
+D3_open_P25,T6,D3_open_P25_T6,D3,open,P25,Pocillopora,Enriched,0,0,,T3
+D3_open_P25,T9,D3_open_P25_T9,D3,open,P25,Pocillopora,Enriched,0,0,,T3
+D3_open_P26,T9,D3_open_P26_T9,D3,open,P26,Pocillopora,Enriched,1,1,,T9
+D3_open_P27,T9,D3_open_P27_T9,D3,open,P27,Pocillopora,Enriched,1,1,,T9
+D3_open_P03,T6,D3_open_P3_T6,D3,open,P03,Pocillopora,Enriched,0,1,,T3
+D3_open_P03,T9,D3_open_P3_T9,D3,open,P03,Pocillopora,Enriched,0,1,,T3
+D3_open_P03,T3,D3_open_P3_T3,D3,open,P03,Pocillopora,Enriched,1,1,,T3
+D3_open_P04,T3,D3_open_P4_T3,D3,open,P04,Pocillopora,Enriched,1,1,,T3
+D3_open_P04,T6,D3_open_P4_T6,D3,open,P04,Pocillopora,Enriched,0,1,,T3
+D3_open_P04,T9,D3_open_P4_T9,D3,open,P04,Pocillopora,Enriched,0,1,,T3
+D3_open_P05,T3,D3_open_P5_T3,D3,open,P05,Pocillopora,Enriched,1,1,,T3
+D3_open_P05,T6,D3_open_P5_T6,D3,open,P05,Pocillopora,Enriched,0,0,,T3
+D3_open_P05,T9,D3_open_P5_T9,D3,open,P05,Pocillopora,Enriched,0,0,,T3
+D3_open_P06,T3,D3_open_P6_T3,D3,open,P06,Pocillopora,Enriched,1,1,,T3
+D3_open_P06,T6,D3_open_P6_T6,D3,open,P06,Pocillopora,Enriched,0,1,,T3
+D3_open_P06,T9,D3_open_P6_T9,D3,open,P06,Pocillopora,Enriched,0,0,Looks like it was killed by Acropora A4,T3
+D3_open_P07,T3,D3_open_P7_T3,D3,open,P07,Pocillopora,Enriched,1,1,,T3
+D3_open_P07,T6,D3_open_P7_T6,D3,open,P07,Pocillopora,Enriched,0,0,,T3
+D3_open_P07,T9,D3_open_P7_T9,D3,open,P07,Pocillopora,Enriched,0,0,,T3
+D3_open_P08,T3,D3_open_P8_T3,D3,open,P08,Pocillopora,Enriched,1,1,,T3
+D3_open_P08,T6,D3_open_P8_T6,D3,open,P08,Pocillopora,Enriched,0,0,,T3
+D3_open_P08,T9,D3_open_P8_T9,D3,open,P08,Pocillopora,Enriched,0,0,,T3
+D3_open_P09,T3,D3_open_P9_T3,D3,open,P09,Pocillopora,Enriched,1,1,,T3
+D3_open_P09,T6,D3_open_P9_T6,D3,open,P09,Pocillopora,Enriched,0,0,,T3
+D3_open_P09,T9,D3_open_P9_T9,D3,open,P09,Pocillopora,Enriched,0,0,,T3
