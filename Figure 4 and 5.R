@@ -186,7 +186,6 @@ Results_final_size_Nov2021 <- AnalyzeAICc(dat=y,yname="Size_T10", family=Gamma(l
 # plot(Results_final_size_Nov2021$DHARMaOutput) # looks ok
 
 
-
 # Function to compare growth using AICc 
 AnalyzeAICc <- function(dat){
   dat <- data.frame(dat)
@@ -311,8 +310,10 @@ predict(Results_growth$model,
                            log_start_size=c(3),
                            Block=NA),type='link')
 # 2.796301 - 2.874584 = -0.078283
-(exp(-0.0783)-1)*100 # Sizes were 7% (1 – 13, 95% CI) lower under elevated nutrients compared to ambient conditions 
+(exp(-0.0783)-1)*100 # Sizes were 7% (1 – 13, 95% CI) higher under elevated nutrients compared to ambient conditions 
 (exp(-0.0783 + c(-2,2)*0.0326)-1)*100
+
+
 
 EMM <- emmeans(Results_growth$model,~ Herbivory_trt)
 pairs(EMM, simple = "Herbivory_trt")
@@ -710,7 +711,5 @@ legend(2,22,legend=c(
 
 mtext("Consumer pressure treatment", side=1, line=1, cex=1.2, outer=T)
 ########################################################################################### 
-
-
 
 
