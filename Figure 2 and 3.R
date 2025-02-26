@@ -339,7 +339,7 @@ p1 <- ggplot(y, aes(fill=Species, y=Freq, x=Species)) +
   ylim(0,90) +
   geom_bar(position='stack', stat='identity') +
   theme_minimal() + 
-  labs(x='', y='', title='b) Recruited in 2019') +
+  labs(x='', y='', title='a) Recruited in 2019') +
   theme(plot.title = element_text(hjust=0, size=10, face='bold'),
         axis.text.x = element_blank(),
         legend.position = "none") +
@@ -356,7 +356,7 @@ p2 <- ggplot(y, aes(fill=Species, y=Freq, x=Species)) +
   ylim(0,90) +
   geom_bar(position='stack', stat='identity') +
   theme_minimal() + 
-  labs(x='', y='Number of colonies in 2021', title='c) Recruited in 2020') +
+  labs(x='', y='Number of colonies in 2021', title='b) Recruited in 2020') +
   theme(plot.title = element_text(hjust=0, size=10, face='bold'),
         axis.text.x = element_blank(),
         legend.position = "none",
@@ -374,7 +374,7 @@ p3 <- ggplot(y, aes(fill=Species, y=Freq, x=Species)) +
   ylim(0,90) +
   geom_bar(position='stack', stat='identity') +
   theme_minimal() + 
-  labs(x='', y='', title='d) Recruited in 2021') +
+  labs(x='', y='', title='c) Recruited in 2021') +
   theme(plot.title = element_text(hjust=0, size=10, face='bold'),
         axis.text.x = element_blank(),
         legend.position = "none") +
@@ -391,7 +391,7 @@ p4 <- ggplot(y, aes(fill=Species, y=Freq, x=Species)) +
   ylim(0,200) +
   geom_bar(position='stack', stat='identity') +
   theme_minimal() + 
-  labs(x='', y='', title='e) Overall') +
+  labs(x='', y='', title='d) Overall') +
   theme(plot.title = element_text(hjust=0, size=10, face='bold'),
         axis.text.x = element_text(angle = 45, hjust=1.1,vjust=1.1),
         legend.position = "none") +
